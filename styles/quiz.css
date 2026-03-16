@@ -36,21 +36,31 @@ header {
   z-index: 100;
 }
 
+#header-title {
+  font-size: 1.25rem;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex: 1;
+  text-align: left;
+}
+
 .nav-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  max-width: 800px;
+  max-width: 900px;
   margin: 0 auto;
   width: 100%;
+  gap: 20px;
 }
 
 .home-link {
-  color: white;
   text-decoration: none;
-  font-size: 1.5rem;
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 
 .top-buttons {
@@ -98,6 +108,15 @@ main {
   border-radius: 3px;
   margin-bottom: 2rem;
   overflow: hidden;
+}
+
+.progress-container-info {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 0.85rem;
+  color: #7f8c8d;
+  margin-bottom: 0.25rem;
+  font-weight: 600;
 }
 
 .progress-fill {

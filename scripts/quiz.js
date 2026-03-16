@@ -18,6 +18,7 @@ const questionTextEl = document.getElementById('question-text');
 const sectionTitleEl = document.getElementById('section-title');
 const optionsContainerEl = document.getElementById('options-container');
 const progressFillEl = document.getElementById('progress-fill');
+const progressTextEl = document.getElementById('progress-text');
 const currentScoreEl = document.getElementById('current-score');
 const finalScoreEl = document.getElementById('final-score');
 const feedbackContainerEl = document.getElementById('feedback-container');
@@ -28,6 +29,7 @@ const btnNext = document.getElementById('btn-next');
 const btnAnswer = document.getElementById('btn-answer');
 const btnRestart = document.getElementById('btn-restart');
 const btnContinue = document.getElementById('btn-continue');
+const btnResults = document.getElementById('btn-results');
 
 async function initQuiz() {
     const urlParams = new URLSearchParams(window.location.search);
@@ -84,6 +86,7 @@ function renderQuestion() {
     // Update Progress
     const progress = ((currentQuestionIndex + 1) / quizData.length) * 100;
     progressFillEl.style.width = `${progress}%`;
+    progressTextEl.textContent = `${currentQuestionIndex + 1} / ${quizData.length}`;
     
     // Update Buttons
     btnPrev.disabled = currentQuestionIndex === 0;
@@ -160,10 +163,6 @@ function showResults() {
     quizEl.style.display = 'none';
     resultsEl.style.display = 'block';
     finalScoreEl.textContent = `${score} / ${quizData.length}`;
-    
-    const percentage = (score / quizData.length) * 100;
-    document.getElementById('score-message').textContent = 
-        percentage >= 50 ? "Excelente trabalho!" : "Continue a estudar!";
         
     localStorage.removeItem(`quiz_state_${quizType}`);
 }
@@ -202,8 +201,10 @@ btnPrev.onclick = prevQuestion;
 btnNext.onclick = nextQuestion;
 btnAnswer.onclick = checkAnswer;
 btnRestart.onclick = restartQuiz;
+btnResults.onclick = showResults;
 btnContinue.onclick = () => {
-    // Already in loadState called by initQuiz, but we could add more logic here
+    resultsEl.style.display = 'none';
+    quizEl.style.display = 'block';
     renderQuestion();
 };
 
