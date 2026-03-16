@@ -1,71 +1,937 @@
 [
-  { "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM - MODA", "q": "Os alunos que realizam as provas ModA no 4.º e 6.º anos ficam:", "o": ["A) Inscritos manualmente pelos encarregados de educação", "B) Automaticamente inscritos, incluindo os do ensino individual", "C) Dispensados de inscrição obrigatória", "D) Inscritos apenas se frequentarem o ensino público"], "a": 1 },
-  { "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM - MODA", "q": "A decisão de realização das provas ModA por alunos de PLNM (nível A1) é da competência:", "o": ["A) Do diretor de turma", "B) Do Ministério da Educação", "C) Do diretor da escola, mediante parecer do conselho pedagógico", "D) Dos encarregados de educação"], "a": 2 },
-  { "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM - MODA", "q": "Os alunos de PLNM do nível A2 realizam a prova ModA de PLNM em substituição de qual prova?", "o": ["A) Prova ModA de Inglês", "B) Prova ModA de História", "C) Prova ModA de Matemática", "D) Prova ModA de Português"], "a": 3 },
-  { "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM - MODA", "q": "As provas ModA de Inglês e de PLNM são constituídas por quais componentes?", "o": ["A) Escrita e prática", "B) Escrita e produção e interação orais", "C) Apenas oral", "D) Escrita e compreensão do oral"], "a": 1 },
-  { "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM - MODA", "q": "A adaptação «provas a nível de escola» pode ser aplicada na realização das provas ModA?", "o": ["A) Sim, em qualquer caso", "B) Sim, com autorização do JNE", "C) Não, com exceção da adaptação «provas a nível de escola»", "D) Apenas no 4.º ano"], "a": 2 },
-  { "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM - MODA", "q": "O processo de solicitação de adaptações nas provas ModA exige a anuência de quem?", "o": ["A) Apenas do diretor da escola", "B) Expressa do encarregado de educação", "C) Do conselho pedagógico", "D) Do aluno"], "a": 1 },
-  { "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM - MODA", "q": "Os alunos do ensino básico, em situação de surdez severa a profunda, podem realizar, quando aplicável, as provas ModA de Português Língua Segunda (44/62), elaboradas a nível nacional, em substituição das provas ModA de Português (41/61).", "o": ["A) PLNM", "B) Inglês", "C) Português (41/61)", "D) Matemática"], "a": 2 },
-  { "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM - MODA", "q": "Para todas as situações de dislexia ou de perturbação específica da linguagem pode ser aplicada a medida tempo suplementar (30 minutos), para além do tempo de prova, por não estar prevista tolerância regulamentar para as provas ModA.", "o": ["A) 15 minutos", "B) 30 minutos", "C) 45 minutos", "D) Não é permitido tempo suplementar"], "a": 1 },
-  { "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM - MODA", "q": "Onde devem ser publicitadas as pautas de chamada das provas ModA?", "o": ["A) Apenas na internet", "B) Apenas na escola frequentada", "C) Na escola frequentada, de inscrição e na de realização", "D) No portal do JNE"], "a": 2 },
-  { "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM - MODA", "q": "Qual a antecedência mínima para publicitar as pautas de chamada das provas ModA?", "o": ["A) 24 horas", "B) 48 horas", "C) 72 horas", "D) 1 semana"], "a": 1 },
-  { "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM - MODA", "q": "As respostas aos itens de construção das provas ModA são classificadas:", "o": ["A) Pelo professor do aluno", "B) Na escola onde realiza a prova", "C) Em suporte digital pela equipa do EduQA, I.P.", "D) Ao nível de agrupamento"], "a": 2 },
-  { "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM - MODA", "q": "Quem avalia os desempenhos nas provas ModA de Educação Física (48 e 69)?", "o": ["A) Um aplicativo automático", "B) O conselho pedagógico", "C) A direção da escola", "D) Dois professores classificadores através de observação direta"], "a": 3 },
-  { "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM - MODA", "q": "A componente oral da prova ModA de Inglês é classificada por:", "o": ["A) Um único professor", "B) Um júri de três docentes", "C) Uma plataforma digital", "D) Dois docentes do 1.º ciclo"], "a": 1 },
-  { "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM - MODA", "q": "Pode haver reapreciação nas provas ModA?", "o": ["A) Sim, mediante requerimento", "B) Sim, com depósito de 25 euros", "C) Não há lugar a reapreciação", "D) Apenas nas questões de construção"], "a": 2 },
-  { "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM - MODA", "q": "Os resultados do desempenho dos alunos nas provas ModA têm caráter...", "o": ["A) Apenas quantitativo", "B) De substituição da nota", "C) Quantitativo e qualitativo", "D) Estritamente punitivo"], "a": 2 },
-  { "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM - MODA", "q": "A informação dos relatórios as provas ModA é:", "o": ["A) Exclusiva para o Ministério da Educação", "B) Complementar às informações geradas pela avaliação interna", "C) Substituta da avaliação formativa", "D) De carácter punitivo"], "a": 1 },
-  { "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM - MODA", "q": "As provas ModA (Monitorização de Aprendizagem) referem-se principalmente aos anos:", "o": ["A) 1.º e 2.º anos", "B) 4.º e 6.º anos", "C) 7.º e 8.º anos", "D) 10.º ano"], "a": 1 },
-  { "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO", "q": "Os alunos internos do 3.º ciclo devem inscrever-se para as provas finais do ensino básico?", "o": ["A) Estão automaticamente inscritos", "B) Devem inscrever-se online", "C) Devem inscrever-se em papel", "D) Apenas se chumbarem"], "a": 0 },
-  { "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO", "q": "A inscrição de alunos autopropostos para provas finais é feita:", "o": ["A) Na secretaria presencialmente", "B) Online", "C) Por correio", "D) Automaticamente"], "a": 1 },
-  { "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO", "q": "Inscrições após o termo dos prazos das provas finais dependem:", "o": ["A) Despacho da GNR", "B) Autorização do diretor tendo como limite a véspera das fases", "C) Presidente do IP do EduQA", "D) Ministério da Saúde"], "a": 1 },
-  { "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO", "q": "Alunos internos do ensino básico pagam propina para realizar a prova final?", "o": ["A) Pagam 10 euros", "B) Pagam 25 euros", "C) Estão isentos do pagamento", "D) Pagam apenas se forem à 2.ª fase"], "a": 2 },
-  { "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO", "q": "Um aluno autoproposto fora da escolaridade obrigatória paga quanto por fase nas provas finais?", "o": ["A) 5 euros", "B) 10 euros", "C) 15 euros", "D) 20 euros"], "a": 1 },
-  { "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO", "q": "O pagamento devido por alunos do ensino básico que se inscrevam nas provas fora do prazo definido é:", "o": ["A) 10 euros", "B) 20 euros", "C) 25 euros", "D) 50 euros"], "a": 1 },
-  { "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO", "q": "As provas finais do ensino básico são aplicadas em que ano?", "o": ["A) 4.º ano", "B) 6.º ano", "C) 9.º ano", "D) 12.º ano"], "a": 2 },
-  { "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO", "q": "Alunos com a medida adicional «adaptações curriculares significativas» realizam provas finais para conclusão de ciclo?", "o": ["A) Realizam obrigatoriamente", "B) Realizam apenas de Português", "C) Não realizam para efeitos de aprovação e conclusão", "D) Realizam provas a nível de escola"], "a": 2 },
-  { "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO", "q": "A prova final do ensino básico de Português, na 1.ª fase para alunos internos, tem componente oral?", "o": ["A) Sim, obrigatória", "B) Apenas se o aluno solicitar", "C) É constituída apenas por componente escrita", "D) Depende do agrupamento"], "a": 2 },
-  { "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO", "q": "A prova final do ensino básico de PLNM tem componente oral?", "o": ["A) Apenas para autopropostos", "B) Não tem componente oral", "C) Tem para alunos internos e autopropostos", "D) Apenas se posicionados no nível A1"], "a": 2 },
-  { "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO", "q": "Nas provas finais em suporte digital (Português/PLNM), onde regista o aluno as respostas?", "o": ["A) Em folha de papel", "B) Num quadro interativo", "C) Em suporte digital", "D) Em papel ou digital, à escolha"], "a": 2 },
-  { "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO", "q": "No 9.º ano, para reunir condições de aprovação, o aluno pode ter disciplinas sem classificação final?", "o": ["A) Sim, até duas", "B) Sim, apenas Educação Física", "C) Não pode apresentar disciplinas sem classificação", "D) Sim, em caso de faltas"], "a": 2 },
-  { "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO", "q": "Um aluno com nível 1 a Português e Matemática na avaliação sumativa interna:", "o": ["A) Vai à 1.ª fase como interno", "B) Vai à 1.ª fase como autoproposto", "C) Não realiza a prova final", "D) Realiza apenas na 2.ª fase"], "a": 1 },
-  { "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO", "q": "A 2.ª fase das provas finais do ensino básico destina-se a que alunos?", "o": ["A) Apenas para os que faltarem por doença", "B) Aos que não reúnam condições de aprovação após a 1.ª fase", "C) A todos os alunos para melhoria de nota", "D) Aos autopropostos exclusivamente"], "a": 1 },
-  { "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO", "q": "A falta a uma componente da prova final na 1.ª fase implica:", "o": ["A) Realização apenas dessa componente na 2.ª fase", "B) Aprovação automática", "C) A realização das duas componentes na 2.ª fase", "D) Reprovação de ano automática sem ir à 2.ª fase"], "a": 2 },
-  { "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO", "q": "A elaboração das provas finais do ensino básico compete a:", "o": ["A) JNE (Júri Nacional de Exames)", "B) EduQA, I. P.", "C) Diretores das Escolas", "D) IAVE"], "a": 1 },
-  { "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO", "q": "O júri da prova oral de uma prova final deve incluir:", "o": ["A) O professor do aluno", "B) Três docentes, pelo menos dois com habilitação para a disciplina", "C) Um representante dos encarregados", "D) Apenas professores com especialização em educação especial"], "a": 1 },
-  { "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO", "q": "As pautas de chamada das provas finais são ordenadas por:", "o": ["A) Número de processo", "B) Classificação do período anterior", "C) Turma e número", "D) Ordem alfabética"], "a": 3 },
-  { "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO", "q": "O processo de reapreciação nas provas finais é automático se:", "o": ["A) Um aluno obtiver nível 4", "B) Reprovar por faltas", "C) A Classificação Final (CFD) for inferior à Classificação Interna Final (CIF)", "D) O diretor solicitar"], "a": 2 },
-  { "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO", "q": "Quanto se deposita para pedir reapreciação não automática das provas finais?", "o": ["A) 10 euros", "B) 15 euros", "C) 20 euros", "D) 25 euros"], "a": 3 },
-  { "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO", "q": "Qual o prazo para entregar requerimento de reapreciação não automática?", "o": ["A) 24 horas", "B) 2 dias úteis seguintes à afixação", "C) 5 dias úteis", "D) 1 semana"], "a": 1 },
-  { "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO", "q": "Se a nota subir após a reapreciação, o que acontece aos 25 euros?", "o": ["A) Reverte para a escola", "B) Fica para o JNE", "C) É restituída ao requerente", "D) Metade é restituída"], "a": 2 },
-  { "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO", "q": "Como se efetua a reclamação após a decisão de reapreciação?", "o": ["A) Requerimento ao Ministro da Educação", "B) A apresentar ao presidente do JNE via diretor da escola", "C) Diretamente no site do EduQA", "D) Não é possível reclamar"], "a": 1 },
-  { "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO", "q": "Nas provas finais do ensino básico, são elaborados pareceres pelos professores especialistas após reclamação?", "o": ["A) Sim, sempre", "B) Depende da nota", "C) Não são elaborados pareceres", "D) Apenas para o 1.º ciclo"], "a": 2 },
-  { "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO", "q": "Na 1.ª fase das provas finais, os alunos retidos por faltas realizam as provas?", "o": ["A) Sim, obrigatoriamente", "B) Não realizam pela aplicação do Estatuto do Aluno", "C) Realizam se pedirem no JNE", "D) Realizam a título condicional"], "a": 1 },
-  { "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO", "q": "Na avaliação de Português e PLNM em RVCC as notas usadas para prosseguimento provêm de:", "o": ["A) Frequência escolar", "B) Provas orais exclusivas", "C) Provas escritas realizadas", "D) Decisão do formador"], "a": 2 },
-  { "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO", "q": "Para alunos do ensino individual a prova final obedece:", "o": ["A) Autopropostos", "B) Internos", "C) Alunos com Necessidades Especiais", "D) Aprovados por unanimidade"], "a": 0 },
-  { "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO", "q": "Em que anos se realizam provas de equivalência à frequência?", "o": ["A) Em todos os anos", "B) Nos anos terminais dos 1.º, 2.º e 3.º ciclos", "C) Apenas no 9.º ano", "D) No 4.º e 6.º anos apenas"], "a": 1 },
-  { "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO", "q": "Há prova de equivalência à frequência de Português no 9.º ano?", "o": ["A) Sim", "B) Não, os alunos realizam as respetivas provas finais", "C) Depende se é aluno autoproposto", "D) Apenas para PL2"], "a": 1 },
-  { "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO", "q": "Nas provas de equivalência à frequência com duas componentes, como se calcula a classificação?", "o": ["A) 70% escrita, 30% oral", "B) O valor da escrita conta na totalidade", "C) Média aritmética simples arredondada às unidades", "D) Ponderação definida pelo professor"], "a": 2 },
-  { "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO", "q": "Um aluno autoproposto com faltas pode realizar provas de equivalência à frequência?", "o": ["A) Sim, na 1.ª fase nas disciplinas da tabela C", "B) Não, fica reprovado automaticamente", "C) Apenas em Educação Física", "D) Apenas na 2.ª fase"], "a": 0 },
-  { "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO", "q": "Quem aprova a estrutura das provas de equivalência à frequência elaboradas na escola?", "o": ["A) EduQA", "B) JNE", "C) Diretor da Escola", "D) Conselho Pedagógico"], "a": 3 },
-  { "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO", "q": "Quantas provas de equivalência devem as escolas garantir por disciplina?", "o": ["A) Uma", "B) Duas", "C) Três", "D) Nenhuma, vêm do ministério"], "a": 1 },
-  { "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO", "q": "O júri da prova de equivalência não pode integrar:", "o": ["A) Professores de outras escolas", "B) Professores de disciplinas diferentes", "C) Professores dos alunos que se encontrem em avaliação", "D) Membros da direção"], "a": 2 },
-  { "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO", "q": "Na consulta da prova de equivalência, quando se pode ver o original?", "o": ["A) Em qualquer momento", "B) Na presença do diretor ou equivalente", "C) Só em caso de processo em tribunal", "D) Não pode consultar"], "a": 1 },
-  { "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO", "q": "Se a reapreciação incidir apenas sobre erro na soma de cotações, o aluno paga?", "o": ["A) Sim, 25 euros", "B) Sim, 10 euros", "C) Não é devido depósito", "D) Paga o valor das fotocópias"], "a": 2 },
-  { "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO", "q": "A nova classificação após reapreciação de prova de equivalência pode baixar a nota de modo a reprovar o aluno já aprovado?", "o": ["A) Sim, se houver erros graves", "B) Sim", "C) Não, a classificação será a mínima necessária para garantir aprovação", "D) Não desce, mantem a nota"], "a": 2 },
-  { "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO", "q": "Nas provas de equivalência à frequência do 9.º ano, de onde vêm as provas?", "o": ["A) Da Direção-Geral da Educação", "B) Sorteio nacional", "C) São elaboradas na escola", "D) Do JNE"], "a": 2 },
-  { "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO", "q": "Os alunos autopropostos em provas de equivalência à frequência retidos por faltas no 6.º ano devem obrigatoriamente realizar...", "o": ["A) Provas na Tabela A ou B (todas)", "B) Apenas Português", "C) Um projeto", "D) Um relatório de autoavaliação"], "a": 0 },
-  { "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO", "q": "Como são ordenadas as pautas de prova de equivalência?", "o": ["A) Ordem alfabética", "B) Agrupamento etário", "C) Aleatoriamente", "D) Por localidade do educando"], "a": 0 },
-  { "s": "SECÇÃO IV - ADAPTAÇÕES NA REALIZAÇÃO DE PROVAS FINAIS E DE PROVAS EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO", "q": "A autorização para a adaptação «prova a nível de escola» depende de quem?", "o": ["A) Professor Titular", "B) Diretor da Escola", "C) Encarregado de Educação", "D) JNE"], "a": 1 },
-  { "s": "SECÇÃO IV - ADAPTAÇÕES NA REALIZAÇÃO DE PROVAS FINAIS E DE PROVAS EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO", "q": "Os alunos internos com necessidade de adaptações na prova devem ter:", "o": ["A) Avaliação especial há pelo menos 1 semana", "B) Adaptação expressa e coerente com a avaliação interna", "C) Documento assinado por notário", "D) Exame médico geral"], "a": 1 },
-  { "s": "SECÇÃO IV - ADAPTAÇÕES NA REALIZAÇÃO DE PROVAS FINAIS e PROVAS EQUIVALÊNCIA À FREQUÊNCIA", "q": "A prova a nível de escola segue adaptações ao processo da prova mas baseia-se:", "o": ["A) Currículos estrangeiros equivalentes", "B) O RTP (Relatório técnico-pedagógico)", "C) Requisitos de dispensa", "D) Relatórios disciplinares extra"], "a": 1 },
-  { "s": "SECÇÃO IV - ADAPTAÇÕES NA REALIZAÇÃO DE PROVAS FINAIS E DE PROVAS EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO", "q": "Se um aluno tiver dislexia confirmada no 3.º ciclo, que ficha pode apoiar a correção?", "o": ["A) Ficha especial 10", "B) Ficha A", "C) Ficha D", "D) Ficha de Leitura"], "a": 1 },
-  { "s": "SECÇÃO IV - ADAPTAÇÕES NA REALIZAÇÃO DE PROVAS FINAIS E DE PROVAS EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO", "q": "O tempo suplementar por cada prova devido a dislexia/PEL sem PHDA deve estar em:", "o": ["A) Ficha pessoal", "B) Caderneta Escolar", "C) Relatório Técnico-Pedagógico (RTP)", "D) Pauta da turma"], "a": 2 },
-  { "s": "SECÇÃO IV - ADAPTAÇÕES NA REALIZAÇÃO DE PROVAS FINAIS E DE PROVAS EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO", "q": "Os requerimentos de adaptação por incapacidades temporárias exigem:", "o": ["A) Assinatura do Diretor e Declaração médica c/ indicação da incapacidade", "B) Confirmação do conselho diretivo local", "C) Ficha A preenchida pela enfermeira", "D) Prova oral para demonstrar a incapacidade"], "a": 0 },
-  { "s": "SECÇÃO IV - ADAPTAÇÕES NA REALIZAÇÃO DE PROVAS FINAIS E DE PROVAS EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO", "q": "Os alunos de PLNM (A1/A2/B1) que não usaram adequadamente as ferramentas formativas têm que tempo extra?", "o": ["A) 10 min", "B) 15 min", "C) 30 min", "D) 45 min"], "a": 2 },
-  { "s": "SECÇÃO IV - ADAPTAÇÕES NA REALIZAÇÃO DE PROVAS FINAIS E DE PROVAS EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO", "q": "Alunos com PHDA que adaptação de tempo devem usar?", "o": ["A) Tempo suplementar de 60 minutos", "B) Tempo suplementar de 30 minutos", "C) Apenas tolerância regulamentar", "D) Tempo ilimitado"], "a": 2 },
-  { "s": "SECÇÃO V - SITUAÇÕES EXCECIONAIS", "q": "Alunos faltosos à 1.ª fase por doença, em quantos dias entregam justificação?", "o": ["A) 2 dias úteis", "B) 3 dias úteis", "C) 5 dias úteis", "D) 10 dias úteis"], "a": 2 },
-  { "s": "SECÇÃO V - SITUAÇÕES EXCECIONAIS", "q": "Para realização de provas em contexto hospitalar, é necessária a declaração de quem?", "o": ["A) Apenas do médico", "B) Da direção da instituição hospitalar", "C) Da câmara municipal", "D) Dos pais apenas"], "a": 1 },
-  { "s": "SECÇÃO V - SITUAÇÕES EXCECIONAIS", "q": "A quem se remete a solicitação para realizar a prova no hospital?", "o": ["A) Ao Diretor de Turma", "B) Ao EduQA", "C) Ao Presidente do JNE", "D) Ao Delegado de Saúde"], "a": 2 },
-  { "s": "SECÇÃO V - SITUAÇÕES EXCECIONAIS", "q": "Alunos do 9.º ano com doença muito grave, avaliados internamente com aproveitamento, podem:", "o": ["A) Ser dispensados pela escola", "B) Ser dispensados por despacho do presidente do JNE", "C) Fazer a prova oral apenas", "D) Reprovar administrativamente"], "a": 1 }  
+  {
+    "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM (ModA) - Artigo 6.º - Realização das provas",
+    "q": "Os alunos que realizam as provas ModA no 4.º e 6.º anos ficam:",
+    "o": [
+      "A) Inscritos manualmente pelos encarregados de educação",
+      "B) Automaticamente inscritos, incluindo os do ensino individual ou doméstico",
+      "C) Dispensados de inscrição obrigatória caso frequentem o ensino doméstico",
+      "D) Inscritos apenas se frequentarem o ensino público"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM (ModA) - Artigo 6.º - Realização das provas",
+    "q": "Os alunos de PLNM posicionados no nível intermédio (B2) e no nível avançado realizam:",
+    "o": [
+      "A) A prova ModA de PLNM em substituição da prova de Português",
+      "B) As provas ModA de Português (41/61)",
+      "C) São dispensados de qualquer prova ModA",
+      "D) A prova ModA de PLNM de nível A2"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM (ModA) - Artigo 7.º - Adaptações na realização das provas ModA",
+    "q": "A autorização de adaptações na realização das provas ModA é da competência de:",
+    "o": [
+      "A) Do Júri Nacional de Exames (JNE)",
+      "B) Do Conselho Pedagógico, mediante parecer do diretor de turma",
+      "C) Do diretor da escola",
+      "D) Do Ministério da Educação, Ciência e Inovação"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM (ModA) - Artigo 7.º - Adaptações na realização das provas ModA",
+    "q": "O processo de solicitação de aplicação de adaptações nas provas ModA é constituído sob proposta de quem?",
+    "o": [
+      "A) Do encarregado de educação, mediante parecer do diretor de turma",
+      "B) Do docente titular de turma/conselho de docentes ou diretor de turma/conselho de turma, com anuência do encarregado de educação",
+      "C) Do diretor da escola, com aprovação do Conselho Pedagógico",
+      "D) Do presidente do JNE, com parecer dos serviços de educação especial"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM (ModA) - Artigo 8.º - Português Língua Segunda (PL2)",
+    "q": "Que alunos do ensino básico podem realizar as provas ModA de Português Língua Segunda (44/62)?",
+    "o": [
+      "A) Todos os alunos estrangeiros matriculados no ensino básico",
+      "B) Os alunos em situação de surdez severa a profunda, quando aplicável",
+      "C) Os alunos de PLNM posicionados no nível de iniciação (A1)",
+      "D) Os alunos com dislexia diagnosticada clinicamente"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM (ModA) - Artigo 8.º - Português Língua Segunda (PL2)",
+    "q": "As provas ModA de Português Língua Segunda (PL2) são elaboradas:",
+    "o": [
+      "A) A nível de escola, sob responsabilidade do Conselho Pedagógico",
+      "B) A nível nacional",
+      "C) Pelo JNE em articulação com cada escola",
+      "D) Pelo EduQA, I.P., em parceria com os serviços de educação especial"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM (ModA) - Artigo 9.º - Situações de dislexia e PEL",
+    "q": "Em situações de dislexia ou perturbação específica da linguagem (PEL) nas provas ModA, pode ser aplicado um tempo suplementar de:",
+    "o": [
+      "A) 15 minutos, por não estar prevista tolerância regulamentar",
+      "B) 60 minutos, em qualquer situação de dislexia",
+      "C) 30 minutos, por não estar prevista tolerância regulamentar para as provas ModA",
+      "D) 45 minutos, mediante autorização do presidente do JNE"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM (ModA) - Artigo 9.º - Situações de dislexia e PEL",
+    "q": "A ficha A — Apoio para classificação de provas nos casos de dislexia e PEL — pode ser aplicada nas provas ModA desde que:",
+    "o": [
+      "A) Solicitada pelo encarregado de educação no ato da inscrição",
+      "B) Fundamentada nas adaptações ao processo de avaliação interna e em evidências que demonstrem que a sua intervenção é necessária",
+      "C) Autorizada pelo presidente do JNE mediante relatório médico",
+      "D) O aluno tenha diagnóstico clínico emitido há menos de dois anos"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM (ModA) - Artigo 10.º - Pautas de chamada das provas ModA",
+    "q": "Com que antecedência mínima devem ser afixadas as pautas de chamada das provas ModA em suporte de papel?",
+    "o": [
+      "A) 24 horas relativamente ao início das provas",
+      "B) 72 horas relativamente ao início das provas",
+      "C) 48 horas relativamente ao início das provas",
+      "D) Uma semana relativamente ao início das provas"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM (ModA) - Artigo 10.º - Pautas de chamada das provas ModA",
+    "q": "As pautas de chamada das provas ModA são organizadas:",
+    "o": [
+      "A) Por turma, sendo os alunos ordenados por ordem alfabética",
+      "B) Por prova, sendo os alunos agrupados por turma",
+      "C) Por número de aluno, independentemente da turma",
+      "D) Por disciplina, sendo os alunos agrupados por escola"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM (ModA) - Artigo 11.º - Classificação das provas ModA",
+    "q": "Quem classifica as respostas aos itens de construção das provas ModA?",
+    "o": [
+      "A) Os professores da própria escola do aluno",
+      "B) O Conselho Pedagógico de cada agrupamento",
+      "C) A equipa de avaliadores do EduQA, I.P., em regime de anonimato",
+      "D) O JNE, em sede de agrupamento"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM (ModA) - Artigo 11.º - Classificação das provas ModA",
+    "q": "Na classificação da componente de produção e interação orais das provas ModA de Inglês e de PLNM, os professores responsáveis:",
+    "o": [
+      "A) Podem ser professores dos alunos avaliados, desde que autorizados pelo diretor",
+      "B) Não podem ser professores dos alunos que se encontrem em avaliação",
+      "C) São designados exclusivamente pelo JNE",
+      "D) Devem ser professores externos à escola, contratados para o efeito"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM (ModA) - Artigo 12.º - Reapreciação das provas ModA",
+    "q": "Nas provas ModA, relativamente ao processo de reapreciação:",
+    "o": [
+      "A) É admitida reapreciação, mas apenas para os itens de construção",
+      "B) Não há lugar a reapreciação",
+      "C) É admitida reapreciação, mediante depósito de 25 euros",
+      "D) É admitida reapreciação automática quando a classificação seja inferior à avaliação interna"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM (ModA) - Artigo 13.º - Relatórios das provas ModA",
+    "q": "Até quando devem ser disponibilizados às escolas os relatórios das provas ModA?",
+    "o": [
+      "A) Até ao final do ano letivo em que as provas foram realizadas",
+      "B) Até ao início do ano letivo subsequente ao da realização das provas",
+      "C) Até 30 dias após a realização das provas",
+      "D) Até ao início do 2.º período letivo seguinte"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO I - PROVAS DE MONITORIZAÇÃO DA APRENDIZAGEM (ModA) - Artigo 13.º - Relatórios das provas ModA",
+    "q": "A quem cabe assegurar que os relatórios das provas ModA são analisados e circulam atempadamente pelos destinatários?",
+    "o": [
+      "A) Ao presidente do JNE",
+      "B) Ao EduQA, I.P.",
+      "C) Ao diretor da escola",
+      "D) Ao coordenador do secretariado de exames"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO - Artigo 14.º - Alunos internos",
+    "q": "Para que efeito são considerados internos os alunos no ensino básico?",
+    "o": [
+      "A) Para efeitos de inscrição nas provas de equivalência à frequência do 1.º e 2.º ciclos",
+      "B) Para efeitos de admissão à 1.ª fase das provas finais do ensino básico ou às provas a nível de escola",
+      "C) Para efeitos de dispensa da componente oral das provas finais",
+      "D) Para efeitos de inscrição nos exames finais nacionais do ensino secundário"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO - Artigo 14.º - Alunos internos",
+    "q": "Onde se encontram identificadas as situações que conferem a qualidade de aluno interno no ensino básico?",
+    "o": [
+      "A) No artigo 2.º do presente regulamento",
+      "B) No Quadro I do presente regulamento",
+      "C) No Despacho que estabelece o calendário de provas e exames",
+      "D) Na Informação-Prova do EduQA, I.P."
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO - Artigo 15.º - Alunos autopropostos",
+    "q": "Os alunos de PLNM do 3.º ciclo, na qualidade de autopropostos, só podem realizar:",
+    "o": [
+      "A) A prova final de Português (91), em qualquer fase",
+      "B) A prova final do 9.º ano de PLNM, de acordo com os n.ºs 3, 8 e 9 do Quadro I",
+      "C) Provas de equivalência à frequência em todas as disciplinas do 3.º ciclo",
+      "D) O exame final nacional de PLNM do ensino secundário"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO - Artigo 15.º - Alunos autopropostos",
+    "q": "Os alunos autopropostos do ensino básico estão admitidos a que tipos de provas?",
+    "o": [
+      "A) Apenas às provas finais do ensino básico",
+      "B) Às provas finais do ensino básico, às provas a nível de escola e às provas de equivalência à frequência",
+      "C) Apenas às provas de equivalência à frequência do 3.º ciclo",
+      "D) Apenas às provas ModA de 4.º e 6.º anos"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO - Artigo 16.º - Inscrições",
+    "q": "Como se inscrevem os alunos internos do 3.º ciclo do ensino básico para as provas finais?",
+    "o": [
+      "A) Mediante inscrição obrigatória online nos prazos do Quadro I",
+      "B) Ficam automaticamente inscritos, não necessitando de inscrição",
+      "C) São inscritos pelo encarregado de educação junto da secretaria escolar",
+      "D) Mediante inscrição presencial na escola de inscrição"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO - Artigo 16.º - Inscrições",
+    "q": "Podem ser autorizadas inscrições fora do prazo nas provas finais do ensino básico por quem e até quando?",
+    "o": [
+      "A) Pelo presidente do JNE, até ao início de cada fase",
+      "B) Pelo diretor da escola, tendo como limite a véspera do início de cada fase",
+      "C) Pelo Conselho Pedagógico, até 48 horas após o início de cada fase",
+      "D) Pelo Ministério da Educação, sem limite definido no regulamento"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO - Artigo 17.º - Encargos de inscrição no ensino básico",
+    "q": "Os alunos autopropostos fora da escolaridade obrigatória que se inscrevam nas provas finais do ensino básico pagam:",
+    "o": [
+      "A) 5 euros por cada disciplina em que se inscrevam",
+      "B) 10 euros por cada fase em que se inscrevem",
+      "C) 25 euros, independentemente do número de disciplinas",
+      "D) 20 euros apenas na 2.ª fase"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO - Artigo 17.º - Encargos de inscrição no ensino básico",
+    "q": "Qual o valor a pagar por alunos do ensino básico que se inscrevam em provas depois de expirados os prazos definidos no Quadro I?",
+    "o": [
+      "A) 10 euros (pagamento único)",
+      "B) 25 euros (pagamento único)",
+      "C) 20 euros (pagamento único)",
+      "D) 3 euros por disciplina"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO - Artigo 18.º - Provas Finais do Ensino Básico",
+    "q": "As provas finais do ensino básico são aplicadas em que ano de escolaridade?",
+    "o": [
+      "A) No 8.º ano de escolaridade",
+      "B) No 6.º e 9.º anos de escolaridade",
+      "C) No 9.º ano de escolaridade",
+      "D) No 7.º e 9.º anos de escolaridade"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO - Artigo 18.º - Provas Finais do Ensino Básico",
+    "q": "Os alunos com a medida adicional «adaptações curriculares significativas» realizam as provas finais do ensino básico?",
+    "o": [
+      "A) Sim, mas apenas a componente escrita das provas finais",
+      "B) Sim, com adaptações específicas autorizadas pelo diretor",
+      "C) Não, não realizam as provas finais para efeitos de aprovação e conclusão de ciclo",
+      "D) Sim, mas em regime de prova a nível de escola"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO - Artigo 19.º - Condições de admissão às provas finais",
+    "q": "Em que condição um aluno NÃO realiza as provas finais do ensino básico na 1.ª fase?",
+    "o": [
+      "A) Se tiver classificação de frequência de nível 2 a Português",
+      "B) Se tiver ficado retido por faltas, pela aplicação do previsto no Estatuto do Aluno",
+      "C) Se for aluno de PLNM de nível B1",
+      "D) Se frequentar o ensino doméstico"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO - Artigo 19.º - Condições de admissão às provas finais",
+    "q": "A 2.ª fase das provas finais do ensino básico destina-se a alunos que, entre outras situações:",
+    "o": [
+      "A) Pretendam melhorar a classificação obtida na 1.ª fase",
+      "B) Não reúnam as condições de aprovação para o 3.º ciclo após a 1.ª fase",
+      "C) Tenham obtido nível 3 em todas as disciplinas na 1.ª fase",
+      "D) Sejam alunos internos com classificação de nível 4 a Português"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO - Artigo 20.º - Elaboração e realização de provas finais",
+    "q": "A elaboração das provas finais do ensino básico é da competência de:",
+    "o": [
+      "A) Do Conselho Pedagógico de cada agrupamento de escolas",
+      "B) Do JNE, em articulação com o Ministério da Educação",
+      "C) Do EduQA, I.P.",
+      "D) Da Agência para a Gestão do Sistema Educativo, I.P."
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO - Artigo 20.º - Elaboração e realização de provas finais",
+    "q": "O júri para a componente de produção e interação orais das provas finais é constituído por:",
+    "o": [
+      "A) Dois docentes, ambos com habilitação para a docência da disciplina",
+      "B) Três docentes, em que pelo menos dois têm habilitação para a docência da disciplina",
+      "C) Quatro docentes, nenhum deles da escola do aluno avaliado",
+      "D) Um docente designado pelo JNE e dois representantes do Conselho Pedagógico"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO - Artigo 21.º - Pautas de chamada",
+    "q": "Como são organizadas as pautas de chamada das provas finais do ensino básico?",
+    "o": [
+      "A) Por turma, sendo os alunos agrupados por número interno",
+      "B) Por disciplina, sendo os alunos ordenados por ordem alfabética",
+      "C) Por escola, sendo os alunos ordenados por data de nascimento",
+      "D) Por código de prova, sendo os alunos ordenados por número de aluno"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO - Artigo 21.º - Pautas de chamada",
+    "q": "Com quantas horas de antecedência devem ser afixadas as pautas de chamada relativas às provas do primeiro dia de cada fase?",
+    "o": [
+      "A) 48 horas de antecedência",
+      "B) 12 horas de antecedência",
+      "C) 24 horas de antecedência",
+      "D) 72 horas de antecedência"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO - Artigo 22.º - Classificação das provas finais do ensino básico",
+    "q": "Qual é a ponderação da componente escrita na classificação das provas finais de PLNM do ensino básico?",
+    "o": [
+      "A) 70%",
+      "B) 80%",
+      "C) 85%",
+      "D) 90%"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO - Artigo 22.º - Classificação das provas finais do ensino básico",
+    "q": "Em que escala é expressa a classificação das componentes de prova (escrita e oral) nas provas finais do ensino básico?",
+    "o": [
+      "A) Na escala de 0 a 200 pontos",
+      "B) Na escala de 1 a 5, em níveis",
+      "C) Na escala percentual de 0 a 100",
+      "D) Na escala de 0 a 20 valores"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO - Artigo 23.º - Pautas e registo de classificações",
+    "q": "Onde são afixadas as pautas de classificação das provas finais do ensino básico?",
+    "o": [
+      "A) No site do Ministério da Educação e na escola de inscrição",
+      "B) Na escola frequentada pelo aluno, nas datas estabelecidas no Despacho do calendário de provas",
+      "C) No portal do JNE, em formato exclusivamente digital",
+      "D) Na escola onde as provas foram realizadas e nos serviços da AGSE"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO - Artigo 23.º - Pautas e registo de classificações",
+    "q": "O que inclui a informação disponibilizada nos resultados do desempenho dos alunos nas provas finais do ensino básico?",
+    "o": [
+      "A) Apenas a classificação quantitativa global obtida em cada prova",
+      "B) A classificação quantitativa global e a classificação relativa a cada tema ou domínio, bem como relatórios individuais com desempenhos qualitativos",
+      "C) Apenas os desempenhos qualitativos, sem indicação de classificações numéricas",
+      "D) A classificação global e a comparação com a média nacional, por escola"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO - Artigo 24.º - Reapreciação das provas finais",
+    "q": "Em que situação o processo de reapreciação nas provas finais do ensino básico é automático?",
+    "o": [
+      "A) Sempre que o aluno solicitar por escrito ao diretor da escola",
+      "B) Quando a CFD após a realização da prova final seja inferior à Classificação Interna Final (CIF)",
+      "C) Quando o aluno obtenha classificação superior a 80 pontos percentuais na prova",
+      "D) Sempre que o encarregado de educação apresente requerimento no prazo de 5 dias"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO - Artigo 24.º - Reapreciação das provas finais",
+    "q": "Qual o valor do depósito exigido para requerer a reapreciação de provas finais do ensino básico não sujeitas ao processo automático?",
+    "o": [
+      "A) 10 euros",
+      "B) 50 euros",
+      "C) 25 euros",
+      "D) 20 euros"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO - Artigo 25.º - Processo de reclamação",
+    "q": "A reclamação das provas finais do ensino básico deve ser apresentada a quem?",
+    "o": [
+      "A) Ao diretor da escola onde as provas foram realizadas",
+      "B) Ao presidente do JNE",
+      "C) Ao EduQA, I.P., via plataforma eletrónica",
+      "D) À Inspeção-Geral da Educação e Ciência"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - PROVAS FINAIS DO ENSINO BÁSICO - Artigo 25.º - Processo de reclamação",
+    "q": "Qual o prazo máximo para o presidente do JNE decidir sobre uma reclamação das provas finais do ensino básico?",
+    "o": [
+      "A) 15 dias úteis",
+      "B) 20 dias úteis",
+      "C) 60 dias úteis",
+      "D) 30 dias úteis"
+    ],
+    "a": 3
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO - Artigo 26.º - Provas de equivalência à frequência",
+    "q": "No ano terminal do 3.º ciclo, nas disciplinas de Português, PLNM, PL2 e Matemática, os alunos realizam:",
+    "o": [
+      "A) Provas de equivalência à frequência elaboradas a nível de escola",
+      "B) As respetivas provas finais do ensino básico, não havendo lugar a provas de equivalência à frequência",
+      "C) Ambos os tipos de provas, sendo considerada a melhor classificação",
+      "D) Apenas a componente escrita das provas de equivalência à frequência"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO - Artigo 26.º - Provas de equivalência à frequência",
+    "q": "Nas provas de equivalência à frequência constituídas por duas componentes, como é calculada a classificação da disciplina?",
+    "o": [
+      "A) Pela média ponderada das duas componentes, com maior peso para a oral",
+      "B) Pela média aritmética simples das classificações das duas componentes, arredondada às unidades",
+      "C) Apenas com base na componente escrita, sendo a oral meramente indicativa",
+      "D) Pela componente com melhor classificação, à escolha do aluno"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO - Artigo 27.º - Condições de admissão 1.º e 2.º ciclos",
+    "q": "Os alunos autopropostos dos 4.º e 6.º anos que completem, respetivamente, 14 e 16 anos e não tenham obtido aprovação na avaliação interna final realizam provas de equivalência à frequência na 1.ª fase:",
+    "o": [
+      "A) Em todas as disciplinas do ciclo, independentemente das classificações",
+      "B) Apenas nas disciplinas de Português e Matemática",
+      "C) Nas disciplinas em que obtiveram menção Insuficiente (1.º ciclo) ou classificação inferior a nível 3 (2.º ciclo)",
+      "D) Somente se autorizados pelo Conselho Pedagógico"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO - Artigo 27.º - Condições de admissão 1.º e 2.º ciclos",
+    "q": "Os alunos dos 1.º e 2.º ciclos que não realizem alguma prova de equivalência à frequência e consequentemente não tenham classificação final na disciplina:",
+    "o": [
+      "A) Podem obter aprovação no ciclo com base na avaliação interna",
+      "B) Não reúnem condições de aprovação no ciclo",
+      "C) São automaticamente aprovados se tiverem nível 3 nas restantes disciplinas",
+      "D) Têm a situação analisada caso a caso pelo diretor da escola"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO - Artigo 28.º - Condições de admissão 3.º ciclo",
+    "q": "Os alunos do 9.º ano retidos por faltas realizam, como alunos autopropostos e obrigatoriamente na 1.ª fase:",
+    "o": [
+      "A) As provas finais de Português e Matemática apenas",
+      "B) As provas de equivalência à frequência em todas as disciplinas da matriz curricular do 9.º ano",
+      "C) Apenas as provas nas disciplinas com classificação inferior a nível 3",
+      "D) As provas de equivalência à frequência apenas nas disciplinas que frequentaram com assiduidade"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO - Artigo 28.º - Condições de admissão 3.º ciclo",
+    "q": "Os alunos autopropostos do 9.º ano matriculados no ensino individual ou doméstico realizam, obrigatoriamente na 1.ª fase:",
+    "o": [
+      "A) Apenas as provas finais de Português e Matemática",
+      "B) As provas finais e as provas de equivalência à frequência em todas as disciplinas da tabela C do Quadro V",
+      "C) Apenas as provas de equivalência à frequência nas disciplinas com nível inferior a 3",
+      "D) As provas ModA e as provas finais do ensino básico"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO - Artigo 29.º - Elaboração e realização de provas de equivalência",
+    "q": "As provas de equivalência à frequência do ensino básico referidas no Quadro V são elaboradas:",
+    "o": [
+      "A) Pelo EduQA, I.P., a nível nacional",
+      "B) Na escola, sob orientação e responsabilidade do Conselho Pedagógico",
+      "C) Pelo JNE, em sede de agrupamento",
+      "D) Pelo Ministério da Educação, Ciência e Inovação"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO - Artigo 29.º - Elaboração e realização de provas de equivalência",
+    "q": "Quantos exemplares de prova de equivalência à frequência devem as escolas garantir por cada disciplina?",
+    "o": [
+      "A) Um exemplar por disciplina",
+      "B) Três exemplares por disciplina",
+      "C) Dois exemplares por disciplina",
+      "D) O número de exemplares é definido pelo Conselho Pedagógico"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO - Artigo 30.º - Pautas de chamada",
+    "q": "As pautas de chamada das provas de equivalência à frequência são organizadas por:",
+    "o": [
+      "A) Turma, com os alunos agrupados por número interno",
+      "B) Disciplina, com os alunos ordenados por ordem alfabética",
+      "C) Escola, com os alunos ordenados por data de nascimento",
+      "D) Código de prova, com os alunos ordenados cronologicamente por inscrição"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO - Artigo 30.º - Pautas de chamada",
+    "q": "Qual é o único meio oficial de comunicação das informações das pautas de chamada das provas de equivalência à frequência?",
+    "o": [
+      "A) A publicação no portal do JNE",
+      "B) O envio por email aos encarregados de educação",
+      "C) As pautas de chamada em suporte de papel afixadas na escola",
+      "D) A publicação no Diário da República"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO - Artigo 31.º - Classificação das provas de equivalência à frequência",
+    "q": "O processo de classificação das provas de equivalência à frequência do ensino básico é assegurado por:",
+    "o": [
+      "A) Pelo EduQA, I.P., em regime de anonimato centralizado",
+      "B) Pelas escolas, sendo da responsabilidade de professores dos respetivos grupos de recrutamento, sob regime de anonimato",
+      "C) Pelo JNE, em sede de agrupamento",
+      "D) Pelo Conselho Pedagógico de cada escola, de forma pública"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO - Artigo 31.º - Classificação das provas de equivalência à frequência",
+    "q": "Em que escala é expressa a classificação das componentes das provas de equivalência à frequência do ensino básico?",
+    "o": [
+      "A) Na escala de 0 a 20 valores",
+      "B) Na escala de 1 a 5, em níveis",
+      "C) Na escala percentual de 0 a 100",
+      "D) Na escala de 0 a 200 pontos"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO - Artigo 32.º - Pautas e registo de classificações",
+    "q": "Quando pode a escola proceder à retificação de erros de cálculo nas pautas das provas de equivalência à frequência?",
+    "o": [
+      "A) Apenas até 48 horas após a afixação das pautas",
+      "B) Só mediante autorização do JNE",
+      "C) A qualquer momento",
+      "D) Apenas no próprio dia de afixação das pautas"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO - Artigo 32.º - Pautas e registo de classificações",
+    "q": "O que devem mencionar as pautas com a avaliação final dos alunos das provas de equivalência à frequência?",
+    "o": [
+      "A) A identificação de todos os professores envolvidos na classificação",
+      "B) A situação escolar dos alunos",
+      "C) O número de alunos que realizaram cada prova por disciplina",
+      "D) As médias nacionais de referência por disciplina"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO - Artigo 33.º - Reapreciação das provas de equivalência à frequência",
+    "q": "A reapreciação das provas de equivalência à frequência do ensino básico é da competência de:",
+    "o": [
+      "A) Do diretor da escola onde as provas foram realizadas",
+      "B) Do JNE, sendo realizada em sede de agrupamento do JNE",
+      "C) Do EduQA, I.P., em regime de anonimato",
+      "D) Do Conselho Pedagógico, mediante proposta do professor classificador"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO - Artigo 33.º - Reapreciação das provas de equivalência à frequência",
+    "q": "O que acontece à quantia depositada para a reapreciação se a classificação resultante for superior à inicial?",
+    "o": [
+      "A) Fica como receita própria da escola em qualquer situação",
+      "B) É restituída ao requerente",
+      "C) É transferida para o JNE como taxa de serviço",
+      "D) É restituída apenas metade ao requerente"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO - Artigo 34.º - Consulta das provas de equivalência para reapreciação",
+    "q": "Até quando deve ser entregue o requerimento de consulta das provas de equivalência à frequência?",
+    "o": [
+      "A) Até dois dias úteis após a publicação da classificação",
+      "B) Até ao final do dia útil seguinte ao da publicação da respetiva classificação",
+      "C) Até cinco dias úteis após a afixação das pautas",
+      "D) Até 48 horas após a realização da prova"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO - Artigo 34.º - Consulta das provas de equivalência para reapreciação",
+    "q": "A consulta do original da prova, quando solicitada pelo requerente, só pode ser efetuada na presença de:",
+    "o": [
+      "A) De um professor da disciplina nomeado pelo Conselho Pedagógico",
+      "B) Do diretor de escola, subdiretor, adjunto do diretor ou coordenador do secretariado de exames",
+      "C) De um representante do JNE designado para o efeito",
+      "D) Do professor classificador da prova"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO - Artigo 35.º - Requerimento de reapreciação",
+    "q": "Que tipo de fundamentos podem constar da alegação justificativa do requerimento de reapreciação?",
+    "o": [
+      "A) Fundamentos de natureza pessoal ou referências à situação escolar do aluno",
+      "B) Fundamentos de natureza científica ou de juízo sobre a aplicação dos critérios de classificação ou existência de vício processual",
+      "C) Qualquer tipo de fundamento, incluindo referências à classificação necessária para aprovação",
+      "D) Fundamentos de natureza médica ou socioeconómica do aluno"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO - Artigo 35.º - Requerimento de reapreciação",
+    "q": "Se o requerimento de reapreciação incidir exclusivamente sobre erro na soma das cotações ou nos itens de seleção:",
+    "o": [
+      "A) É necessário apresentar alegação e depositar 25 euros",
+      "B) Não há lugar à apresentação da alegação nem ao depósito de qualquer quantia",
+      "C) É necessário depositar 10 euros, mas dispensa-se a alegação",
+      "D) A retificação é da competência do JNE e obriga a alegação fundamentada"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO - Artigo 36.º - Decisão do requerimento de reapreciação",
+    "q": "A classificação final da reapreciação pode ser inferior à classificação inicial?",
+    "o": [
+      "A) Não, nunca pode ser inferior à classificação inicial",
+      "B) Sim, mas não pode implicar a não aprovação do aluno quando este já tinha sido aprovado com base na classificação inicial",
+      "C) Sim, sem qualquer restrição",
+      "D) Apenas se o professor relator identificar erros graves na classificação original"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO - Artigo 36.º - Decisão do requerimento de reapreciação",
+    "q": "A classificação resultante do processo de reapreciação passa a constituir a classificação final da prova após:",
+    "o": [
+      "A) Aprovação do Conselho Pedagógico da escola",
+      "B) Homologação pelo presidente do JNE",
+      "C) Validação pelo EduQA, I.P.",
+      "D) Despacho do Ministério da Educação, Ciência e Inovação"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO - Artigo 37.º - Processo de reclamação",
+    "q": "Qual é o prazo para apresentar reclamação após a afixação dos resultados da reapreciação das provas de equivalência à frequência?",
+    "o": [
+      "A) No próprio dia da afixação dos resultados",
+      "B) Nos cinco dias úteis seguintes",
+      "C) Nos dois dias úteis seguintes",
+      "D) Num prazo de 10 dias úteis"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO BÁSICO - Artigo 37.º - Processo de reclamação",
+    "q": "A decisão que recair sobre a reclamação das provas de equivalência à frequência do ensino básico é:",
+    "o": [
+      "A) Passível de recurso para o Ministério da Educação",
+      "B) Definitiva, não sendo passível de qualquer outra impugnação administrativa",
+      "C) Sujeita a revisão pelo EduQA, I.P., em casos excecionais",
+      "D) Reversível mediante novo requerimento ao presidente do JNE"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO IV - ADAPTAÇÕES NA REALIZAÇÃO DE PROVAS - Artigo 38.º - Autorização para aplicação de adaptações",
+    "q": "A autorização para a aplicação de adaptações na realização de provas finais do ensino básico é da responsabilidade de:",
+    "o": [
+      "A) Do presidente do JNE",
+      "B) Do diretor da escola",
+      "C) Do EduQA, I.P.",
+      "D) Do Conselho Pedagógico da escola"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO IV - ADAPTAÇÕES NA REALIZAÇÃO DE PROVAS - Artigo 38.º - Autorização para aplicação de adaptações",
+    "q": "A aplicação da adaptação «prova a nível de escola» depende de autorização de quem?",
+    "o": [
+      "A) Do presidente do JNE",
+      "B) Do Ministério da Educação, Ciência e Inovação",
+      "C) Do EduQA, I.P.",
+      "D) Do diretor da escola"
+    ],
+    "a": 3
+  },
+  {
+    "s": "SECÇÃO IV - ADAPTAÇÕES NA REALIZAÇÃO DE PROVAS - Artigo 39.º - Adaptações na realização de provas",
+    "q": "As adaptações ao processo de avaliação externa devem ser coerentes com:",
+    "o": [
+      "A) As orientações nacionais estabelecidas anualmente pelo JNE",
+      "B) O processo de ensino, de aprendizagem e de avaliação interna desenvolvido ao longo do percurso escolar do aluno",
+      "C) Os critérios definidos pela EMAEI para cada caso individual",
+      "D) O relatório médico do aluno emitido no ano letivo em curso"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO IV - ADAPTAÇÕES NA REALIZAÇÃO DE PROVAS - Artigo 39.º - Adaptações na realização de provas",
+    "q": "As pautas de chamada e de classificação devem identificar o aluno como tendo adaptações no processo de avaliação externa?",
+    "o": [
+      "A) Sim, sempre que as adaptações impliquem condições de realização especiais",
+      "B) Sim, mas apenas nas pautas de classificação",
+      "C) Não devem identificar o aluno como tendo adaptações no processo de avaliação externa",
+      "D) Depende da decisão do diretor da escola em cada caso"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO IV - ADAPTAÇÕES NA REALIZAÇÃO DE PROVAS - Artigo 40.º - Provas a nível de escola do ensino básico",
+    "q": "As provas a nível de escola do ensino básico aplicam-se a alunos com situações de dislexia, PEL e PHDA?",
+    "o": [
+      "A) Sim, em todos os casos de dislexia, PEL e PHDA",
+      "B) Não, estes alunos realizam as provas finais do ensino básico",
+      "C) Sim, mas apenas nos casos de dislexia grave",
+      "D) Apenas nos casos de PHDA com impacto significativo no desempenho escolar"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO IV - ADAPTAÇÕES NA REALIZAÇÃO DE PROVAS - Artigo 40.º - Provas a nível de escola do ensino básico",
+    "q": "A classificação das provas a nível de escola do ensino básico é da responsabilidade de:",
+    "o": [
+      "A) Do EduQA, I.P.",
+      "B) Do Conselho Pedagógico da escola",
+      "C) Do JNE, devendo as provas ser enviadas ao respetivo agrupamento do JNE",
+      "D) Dos professores classificadores da própria escola"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO IV - ADAPTAÇÕES NA REALIZAÇÃO DE PROVAS - Artigo 41.º - Português Língua Segunda (PL2)",
+    "q": "Os alunos do 9.º ano em situação de surdez severa a profunda podem realizar qual prova em substituição da prova final de Português (91)?",
+    "o": [
+      "A) A prova de PLNM (93 ou 94), consoante o nível de proficiência",
+      "B) A prova final de Português Língua Segunda (95), elaborada a nível nacional",
+      "C) A prova a nível de escola de Português, adaptada pela escola",
+      "D) São dispensados da realização de qualquer prova de Português"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO IV - ADAPTAÇÕES NA REALIZAÇÃO DE PROVAS - Artigo 41.º - Português Língua Segunda (PL2)",
+    "q": "A prova final de Português Língua Segunda (95) do ensino básico é elaborada:",
+    "o": [
+      "A) A nível de escola, sob responsabilidade do Conselho Pedagógico",
+      "B) A nível nacional",
+      "C) Pelo JNE, em colaboração com a escola do aluno",
+      "D) Pelo encarregado de educação, com apoio dos serviços de educação especial"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO IV - ADAPTAÇÕES NA REALIZAÇÃO DE PROVAS - Artigo 42.º - Acompanhamento por um docente",
+    "q": "O acompanhamento por um docente durante a realização de provas pode ser aplicado em que situações?",
+    "o": [
+      "A) Em qualquer situação, a pedido do encarregado de educação",
+      "B) Na aplicação de adaptações como «leitura de enunciados», «ditar as respostas», «transcrição de respostas» ou «auxílio no manuseamento do material autorizado»",
+      "C) Apenas em casos de deficiência visual ou auditiva certificada",
+      "D) Exclusivamente em provas de línguas estrangeiras com componente oral"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO IV - ADAPTAÇÕES NA REALIZAÇÃO DE PROVAS - Artigo 42.º - Acompanhamento por um docente",
+    "q": "O acompanhamento por um docente na realização de provas é autorizado ao abrigo de que artigo do regulamento?",
+    "o": [
+      "A) Do artigo 38.º (Autorização para a aplicação de adaptações)",
+      "B) Do artigo 40.º (Provas a nível de escola do ensino básico)",
+      "C) Do n.º 1 do artigo 39.º (Adaptações na realização de provas)",
+      "D) Do artigo 43.º (Situações de dislexia e de PEL)"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO IV - ADAPTAÇÕES NA REALIZAÇÃO DE PROVAS - Artigo 43.º - Situações de dislexia e PEL",
+    "q": "A ficha A para apoio à classificação em casos de dislexia e PEL deve fundamentar-se, entre outros aspetos, em evidências que demonstrem que a intervenção foi iniciada:",
+    "o": [
+      "A) No percurso académico do aluno, o mais precocemente possível, até ao final do 2.º ciclo",
+      "B) No ano letivo em que se realiza a prova",
+      "C) No 3.º ciclo, mediante relatório da EMAEI",
+      "D) No 1.º ciclo, como condição obrigatória"
+    ],
+    "a": 0
+  },
+  {
+    "s": "SECÇÃO IV - ADAPTAÇÕES NA REALIZAÇÃO DE PROVAS - Artigo 43.º - Situações de dislexia e PEL",
+    "q": "Em situações de dislexia e de PEL, a adaptação «leitura de enunciados» deve estar:",
+    "o": [
+      "A) Fundamentada apenas em relatório médico atualizado",
+      "B) Fundamentada e expressa num RTP (Relatório Técnico-Pedagógico)",
+      "C) Autorizada pelo presidente do JNE mediante pedido do diretor de escola",
+      "D) Aprovada pelo EduQA, I.P., mediante análise do processo do aluno"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO IV - ADAPTAÇÕES NA REALIZAÇÃO DE PROVAS - Artigo 44.º - Utilização de tempo suplementar",
+    "q": "A adaptação «tempo suplementar» NÃO se aplica a que situações?",
+    "o": [
+      "A) A alunos com multideficiência grave ou combinada",
+      "B) A situações de dislexia ligeira e moderada, PEL ligeira e moderada e perturbação de hiperatividade com défice de atenção",
+      "C) A alunos com mobilidade reduzida ou incapacidade física temporária",
+      "D) A alunos com dificuldades graves de visão não corrigidas"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO IV - ADAPTAÇÕES NA REALIZAÇÃO DE PROVAS - Artigo 44.º - Utilização de tempo suplementar",
+    "q": "Os alunos de PLNM posicionados nos níveis de iniciação ou intermédio (B1) podem usufruir de um tempo suplementar de quanto tempo quando autorizado o uso de dicionário?",
+    "o": [
+      "A) 15 minutos",
+      "B) 45 minutos",
+      "C) 60 minutos",
+      "D) 30 minutos"
+    ],
+    "a": 3
+  },
+  {
+    "s": "SECÇÃO V - SITUAÇÕES EXCECIONAIS - Artigo 45.º - Condições excecionais de realização de provas",
+    "q": "Alunos que faltam à 1.ª fase por motivos graves, de saúde ou outros que lhes não sejam imputáveis, podem realizar as provas na 2.ª fase desde que:",
+    "o": [
+      "A) O JNE autorize, após análise caso a caso",
+      "B) Autorizados pelo diretor da escola, após análise caso a caso",
+      "C) O encarregado de educação apresente declaração médica",
+      "D) O Conselho Pedagógico emita parecer favorável"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO V - SITUAÇÕES EXCECIONAIS - Artigo 45.º - Condições excecionais de realização de provas",
+    "q": "Qual o prazo para o encarregado de educação apresentar requerimento de justificação de falta à 1.ª fase das provas?",
+    "o": [
+      "A) 3 dias úteis a contar do dia da realização da prova",
+      "B) 10 dias úteis a contar do dia seguinte ao da realização da prova",
+      "C) 5 dias úteis a contar do dia seguinte ao da realização da prova",
+      "D) 2 dias úteis a contar do dia da afixação das pautas"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO V - SITUAÇÕES EXCECIONAIS - Artigo 46.º - Realização de provas em contexto hospitalar",
+    "q": "Que documento deve a instituição hospitalar fornecer para que um aluno possa realizar provas em contexto hospitalar?",
+    "o": [
+      "A) Relatório médico e certidão de internamento emitida pelos serviços de saúde",
+      "B) Declaração da direção da instituição hospitalar a autorizar a realização das provas",
+      "C) Autorização do Ministério da Saúde e do Ministério da Educação",
+      "D) Relatório do médico assistente do aluno, validado pelo JNE"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO V - SITUAÇÕES EXCECIONAIS - Artigo 46.º - Realização de provas em contexto hospitalar",
+    "q": "A solicitação para a realização de provas em contexto hospitalar é remetida ao presidente do JNE por:",
+    "o": [
+      "A) Pelo próprio aluno ou encarregado de educação diretamente",
+      "B) Pela instituição hospitalar onde o aluno está internado",
+      "C) Pelo diretor da escola",
+      "D) Pelo médico assistente do aluno"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO V - SITUAÇÕES EXCECIONAIS - Artigo 47.º - Dispensa de realização de provas finais",
+    "q": "Quando pode um aluno do 9.º ano ser dispensado da realização das provas finais do ensino básico?",
+    "o": [
+      "A) Sempre que apresente relatório médico de situação crónica",
+      "B) Quando se encontre em situação clínica grave e, com base nos registos de avaliação interna, se encontre em condições de aprovação no final do 3.º ciclo",
+      "C) Mediante pedido do encarregado de educação, aceite pelo diretor da escola",
+      "D) Quando acumular mais de 30 dias de falta por doença no ano letivo"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO V - SITUAÇÕES EXCECIONAIS - Artigo 47.º - Dispensa de realização de provas finais",
+    "q": "A dispensa da realização das provas finais do ensino básico apenas pode ser autorizada por quem?",
+    "o": [
+      "A) Pelo diretor da escola, mediante parecer do Conselho Pedagógico",
+      "B) Pelo presidente do JNE",
+      "C) Pelo Ministério da Educação, Ciência e Inovação",
+      "D) Pelo EduQA, I.P., após análise do processo do aluno"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO V - SITUAÇÕES EXCECIONAIS - Artigo 48.º - Alunos com incapacidades físicas temporárias",
+    "q": "Os alunos com incapacidades físicas temporárias no período de realização de provas podem:",
+    "o": [
+      "A) Ser dispensados da realização das provas finais, mediante relatório médico",
+      "B) Requerer adaptações ao processo de avaliação para a realização das provas",
+      "C) Realizar as provas em data posterior, dentro do mesmo ano letivo",
+      "D) Ser avaliados exclusivamente pela avaliação interna, sem realização de provas"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO V - SITUAÇÕES EXCECIONAIS - Artigo 48.º - Alunos com incapacidades físicas temporárias",
+    "q": "A autorização das adaptações para alunos com incapacidades físicas temporárias do 3.º ciclo do ensino básico é da competência de:",
+    "o": [
+      "A) Do presidente do JNE",
+      "B) Do EduQA, I.P.",
+      "C) Do Conselho Pedagógico da escola",
+      "D) Do diretor da escola"
+    ],
+    "a": 3
+  }
 ]
