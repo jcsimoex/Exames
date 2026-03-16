@@ -1,76 +1,904 @@
 [
-{ "s": "SECÇÃO I - INSCRIÇÕES EM PROVAS E EXAMES DO ENSINO SECUNDÁRIO", "q": "Em que plataformas os alunos autopropostos realizam a inscrição?", "o": ["A) Por formulário em papel CTT", "B) Presencialmente junto do diretor da turma", "C) Exclusivamente online", "D) Nas sedes das Juntas de Freguesia"], "a": 2 },
-{ "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS DO ENSINO SECUNDÁRIO", "q": "A prova é reapreciada sempre:", "o": ["A) Em metade dos itens", "B) Na sua totalidade, independentemente das alegações", "C) Apenas na área reclamada", "D) Se o erro for superior a 10%"], "a": 1 },
-{ "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS DO ENSINO SECUNDÁRIO", "q": "Se o requerimento de reapreciação incidir exclusivamente sobre erro na soma das cotações, há lugar a alegação e depósito?", "o": ["A) Sim, deve pagar 25 euros", "B) Não há lugar a alegação nem é devido depósito", "C) Apenas alegação sem depósito", "D) Depósito de 10 euros"], "a": 1 },
-{ "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS DO ENSINO SECUNDÁRIO", "q": "A quem compete a retificação dos erros de soma nas provas de exames finais nacionais?", "o": ["A) Ao Diretor da Turma", "B) Ao Diretor da Escola", "C) Ao Conselho de Turma", "D) Ao JNE (Júri Nacional de Exames)"], "a": 3 },
-{ "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS DO ENSINO SECUNDÁRIO", "q": "A retificação dos erros de soma das cotações em provas a nível de escola do ensino secundário é da competência:", "o": ["A) Do Delegado de Saúde", "B) Do Ministério da Educação", "C) Do Diretor da escola", "D) Do JNE exclusively"], "a": 2 },
-{ "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS DO ENSINO SECUNDÁRIO", "q": "A apresentação do requerimento de reapreciação da componente escrita adia a prestação da componente oral nas 2.ª fases?", "o": ["A) Sim, sempre", "B) Apenas se o aluno tiver justificação clínica", "C) Não, não adia a prestação da outra componente", "D) O aluno fica dispensado da oral"], "a": 2 },
-{ "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS DO ENSINO SECUNDÁRIO", "q": "Para onde submete o diretor de escola o processo de reapreciação de exames e até quando?", "o": ["A) Para o JNE até 5 dias após pedido", "B) Online, até ao dia útil seguinte ao termo do prazo inicial", "C) Em papel diretamente para o IAVE", "D) Fica retido na escola 2 meses"], "a": 1 },
-{ "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS DO ENSINO SECUNDÁRIO", "q": "Quem designa o professor relator encarregado de efetuar a reapreciação aos exames?", "o": ["A) JNE (Júri Nacional de Exames)", "B) Conselho Pedagógico da Escola", "C) Diretor de Turma", "D) Inspeção-Geral de Educação"], "a": 0 },
-{ "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS DO ENSINO SECUNDÁRIO", "q": "O que acontece se um professor já tiver classificado inicialmente a prova e for nomeado relator para a mesma?", "o": ["A) Será avaliado a par e passo por outro", "B) Ele não pode ser designado professor relator se classificou previamente a prova", "C) É-lhe atribuída remuneração extra", "D) Tem total legitimidade se estiver no anonimato"], "a": 1 },
-{ "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS DO ENSINO SECUNDÁRIO", "q": "No parecer do professor relator sobre uma reapreciação, o que deve constar obrigatoriamente?", "o": ["A) A nota interna do aluno", "B) Uma recomendação punitiva", "C) Fundamentação técnica e científica relativa à classificação", "D) Assinatura do encarregado de educação"], "a": 2 },
-{ "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS DO ENSINO SECUNDÁRIO", "q": "Pode a nova classificação após a reapreciação da prova, ser inferior à inicial?", "o": ["A) Sim, pode ser inferior, igual ou superior à inicial", "B) Não, a nota nunca desce", "C) Só pode ser igual ou superior", "D) Pode descer no máximo 1 valor"], "a": 0 },
-{ "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS DO ENSINO SECUNDÁRIO", "q": "O presidente do JNE deve recorrer a um segundo professor relator quando:", "o": ["A) A nota subir muito", "B) Houver discrepância notória ou circunstâncias objetivas excecionais", "C) O aluno solicitar por escrito", "D) Houver provas digitais"], "a": 1 },
-{ "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS DO ENSINO SECUNDÁRIO", "q": "Quem tem o parecer do primeiro relator em sua posse quando faz a sua proposta?", "o": ["A) O avaliador automático", "B) O Diretor de turma", "C) O segundo professor relator", "D) A Associação Académica"], "a": 2 },
-{ "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS DO ENSINO SECUNDÁRIO", "q": "A classificação da reapreciação que possa causar a reprovação a um aluno que já tinha sido aprovado na nota inicial:", "o": ["A) Respeitará a nota despromovida sem excepções", "B) Tem como limite mínimo ser a mínima necessária para garantir aprovação", "C) O processamento é revertido e a prova volta para o primeiro avaliador", "D) Deve aplicar tempo suplementar extra"], "a": 1 },
-{ "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS DO ENSINO SECUNDÁRIO", "q": "Após a decisão das reapreciações, por que meio são os resultados comunicados oficialmente aos requerentes?", "o": ["A) Por email individual", "B) Por notificação dos CTT", "C) Afixação em lugar de estilo na escola nas datas estabelecidas no calendário", "D) Por SMS via EduQA"], "a": 2 },
-{ "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS DO ENSINO SECUNDÁRIO", "q": "A escola pode disponibilizar cópias anonimizadas dos pareceres dos relatores de reapreciação?", "o": ["A) Sim, a pedido do aluno/encarregado, sempre que possível no próprio dia de afixação", "B) Não, os pareceres são secretos", "C) A escola tem de cobrar 25 euros adicionais para os mostrar", "D) Só após terminar o ano escolar por completo"], "a": 0 },
-{ "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS DO ENSINO SECUNDÁRIO", "q": "O processo de reclamação após a decisão de reapreciação é apresentado a quem?", "o": ["A) Ao Tribunal Administrativo", "B) À Inspeção-Geral", "C) Ao Presidente do JNE", "D) Ao Diretor do IAVE"], "a": 2 },
-{ "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS DO ENSINO SECUNDÁRIO", "q": "O período para entregar uma reclamação na escola é de:", "o": ["A) Dois dias úteis seguintes à afixação dos resultados da reapreciação", "B) Cinco dias úteis", "C) Duas semanas", "D) No próprio dia obrigatoriamente"], "a": 0 },
-{ "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS DO ENSINO SECUNDÁRIO", "q": "Uma reclamação após reapreciação com elementos identificativos do aluno na sua argumentação, tem que desfecho?", "o": ["A) É retificada e re-submetida pela escola", "B) É indeferida liminarmente", "C) É analisada com maior brevidade", "D) Fica apenas condicionada no JNE"], "a": 1 },
-{ "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS DO ENSINO SECUNDÁRIO", "q": "Uma queixa de reclamação pode versar fundamentalmente sobre:", "o": ["A) Condições da sala onde se fez a prova", "B) Vício processual e discordância na aplicação dos critérios de classificação", "C) O número de disciplinas em falta para concluir a escolaridade", "D) Doenças e indisposições do aluno"], "a": 1 },
-{ "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS DO ENSINO SECUNDÁRIO", "q": "A reclamação é analisada por:", "o": ["A) Um conselho executivo regional", "B) O mesmo professor que inicialmente a classificou", "C) Professores especialistas designados pelo JNE", "D) Professores recém licenciados"], "a": 2 },
-{ "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS DO ENSINO SECUNDÁRIO", "q": "Em sede de reclamação de exame é possível haver a retificação de erros?", "o": ["A) Não", "B) Sim, a retificação de eventuais erros pelo professor especialista é legítima", "C) Apenas na componente de escolha múltipla", "D) Apenas com voto aprovado do agrupamento de exames"], "a": 1 },
-{ "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS DO ENSINO SECUNDÁRIO", "q": "Qual o prazo máximo do JNE para ditar decisão ou comunicar o resultado da reclamação?", "o": ["A) 10 dias úteis", "B) 30 dias úteis contados a partir da data de entrega na escola", "C) 20 dias seguidos", "D) Ilimitado"], "a": 1 },
-{ "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS DO ENSINO SECUNDÁRIO", "q": "A decisão que recair sobre a reclamação pelo presidente do JNE é:", "o": ["A) Passível de recurso via correio", "B) Sugestiva (as escolas decidem se a aplicam)", "C) Reavaliada no ano seguinte", "D) Definitiva e não passível de outra impugnação administrativa"], "a": 3 },
-{ "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS DO ENSINO SECUNDÁRIO", "q": "O depósito nos processos onde o aluno perdeu a reclamação inicial com sucesso na última fase de reclamação:", "o": ["A) É faturado como imposto fixo de 25€", "B) Fica à guarda do estado na DGES", "C) É restituído ao requerente", "D) Contabiliza para a prova da 2.ª fase em falta"], "a": 2 },
-{ "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO SECUNDÁRIO", "q": "As provas de equivalência à frequência do ensino secundário destinam-se a:", "o": ["A) Melhorar a nota final", "B) Alunos que não frequentaram a disciplina ou faltaram", "C) Substituir exames nacionais", "D) Alunos de mérito"], "a": 1 },
-{ "s": "SECÇÃO IV - MELHORIAS", "q": "É possível um aluno melhorar a classificação e reclassificar o exame com códigos de prova diferentes perante o regulamento nos seus processos com as mesmas disciplinas:", "o": ["A) Sim, contanto que o aluno repita a avaliação do IAVE", "B) Sendo os códigos para a prova os que obtiveram a 1ª aprovação nas competências formativas ou nacionais, será estritamente por esses idênticos os re-exames aplicáveis das avaliações.", "C) Ele executa provas de outro ano compatível nos termos práticos se requeridos e aprovado IAVE Exames", "D) Somente código novo se aprovado"], "a": 1 },
-{ "s": "SECÇÃO IV - MELHORIAS", "q": "Os estudantes com diploma internacional que lhes atribuíu de competência nos seus currículos aprovada do ano/ciclo estão no concurso condicionados de repetir as exames para via nacional e prova secundário para que fins em PT (Ensino e sistema educacional português estrangeiro para equivalências):", "o": ["A) A regra proibe fazer avaliações de disciplinas nacionais como o exame via PT (provas ensino) na base de Melhoria quando já validada no currículo em ensino formativo em escola fora e de cariz no sistema estrangeiros.", "B) Podem de facto melhorar de igual nos seus despachos das vias nacionais PT pelas normas regulatórias na escola com equivalência do seu grau secundarial formativo ao sistema.", "C) Sim desde pagamentos suplementares autoproposto exames.", "D) N.d.a."], "a": 0 },
-{ "s": "SECÇÃO IV - MELHORIAS", "q": "Os limites às avaliações formativas do aluno no regime escolar e ao longo do concurso condicional dependem de solução até quando o tempo excede os seus limites legais de precalço regulatório em vigor nos condicionados do ensino escolar?", "o": ["A) Pelo menos sete de sete dias após a data das provas a título final das pautas originais nos recintos escolares afixadas legalmente", "B) No semestre imediatamente transato ao das provas nos cadernos na afixação.", "C) O suprimentar à falta nas inscrições das escolas não deverá nunca cruzar além das afixadas avaliações na tabela dos exames originais exauridas (Afizações Finais).", "D) Em outubro das reuniões."], "a": 2 },
-{ "s": "SECÇÃO IV - MELHORIAS", "q": "Quando a pessoa faz exame em Nível Escola e opta num exame Nacional Final para o Ensino Superior o seu exame não a substitui a si e no secundário do ano letivo de modo ao da Secção nas condicionalismos dos exames para ingresso superior a nível Nacional do aluno em prova:", "o": ["A) Porque Nacional não o invalida para esse exame em regime próprio a niel superior às Finais na base formativo das JNE em PT e IAVE", "B) Na escola não se combinam provas escola+nacional se a mesma se referir da disciplina sob a decorrer esse escolar ano.", "C) Para superior fica para fase 3 de provas (Escola superior do acesso e suas tutelas).", "D) Podem a mesma disciplina as duas em sistema (Provas em si)."], "a": 1 },
-{ "s": "SECÇÃO IV - MELHORIAS", "q": "RTP do JNE com 2.º Relatores em JNE avaliam na Reapreciação de ensino em Exame os cadernos sem consultar do JNE prévio no exame e o avalia da primeira fase?", "o": ["A) Têm conhecimentos propostos pelo do 1º relator", "B) Ficam cegos ao processo anterior com de a sua análise isenta do JNE pautas e não sendo o jNE PT.", "C) Ao IAVE para conhecimento", "D) A nota vem anulada do 1 relator da escola base de JNE não ficando e recaindo cego sem a sua."], "a": 0 },
-{ "s": "SECÇÃO IV - MELHORIAS", "q": "Que validam o uso das Finais as fase 2ª com Finais em base Exames a e o aluno na falta atestadas como no Secundário no aluno com a disciplina fase superior de fase (o acesso à Faculdade):", "o": ["A) Elas são utilizáveis e validam as das vagas das 2ª Fases no candidato", "B) Excluem por ser as nacionais com Finais a validam das e nos cursos de JNE fase 1 em base de acesso 2", "C) As vagas sã as de superiores de Fases da 1ª.", "D) Ao Secundário o DGE superior de Finais no base em DGE"], "a": 0 },
-{ "s": "SECÇÃO IV - MELHORIAS", "q": "Reclamações na sua de fundamento com processos JNE em Fases de Nacional e a base no ensino se for as Exames e JNE: ", "o": ["A) Requer os cadernos nos pais", "B) Os itens em alvo às sua reclamação podem das já objectivadas nas reapreciada as suas quer reclamadas, e tbm se o aluno nada alegou e foi alvo das mexidas das classificação do relator", "C) O aluno da nas escolhas múltiplas Finais", "D) Nao os os de JNE em Finais na fase de DGE"], "a": 1 },
-{ "s": "SECÇÃO IV - MELHORIAS", "q": "Em suma, uma reapreciação aos Exames no secundário pode envolver uma retificação automática e sem processos documentais ao director das Escolas exames nos JNE de Ensino Sec...", "o": ["A) Se for do erro múltipla escolha (somatórios), e sem exigencias alegação, só JNE / Diretor conserta", "B) Nunca", "C) Sendo as Finais JNE do ensino Base DGE nas orais.", "D) O próprio conselho dita a retificacao da na de JNE com do IAVE em Dge"], "a": 0 },
-{ "s": "SECÇÃO IV - MELHORIAS", "q": "No acesso dos 1066 termos de documento que regulamentam, e na fase e exames e a Faltas, o Diretor e nas Exceções de exames nas e Finais de JNE:", "o": ["A) Os Exames de nivel DGE nas orais Finais JNE de e Finais no das JNE", "B) Prova o Director no processo JNE", "C) É a entidade ou orgão escolar imediato na escola a quem o aluno ou o tutor tem de começar na DGE por remeter a JNE e fundamentar.", "D) Ao Presidente IAVE de imediato."], "a": 2 },
-{ "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS", "q": "A autorização para as adaptações relativas à realização das provas e exames do secundário pode recair nos ombros de:", "o": ["A) Diretor da Escola e Presidente do JNE", "B) Do Ministério em sede Parlamentar", "C) Câmaras Municipais", "D) Centros de Saúde da região"], "a": 0 },
-{ "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS", "q": "Alunos com a medida adicional 'adaptações curriculares significativas':", "o": ["A) Realizam as provas por tablet", "B) Realizam exames com os demais, mas num plano separado", "C) Não realizam exames finais nacionais nem provas de equivalência à frequência para efeitos de aprovação e de ciclo", "D) Realizam as exames na 3.ª fase de agosto exclusivamente"], "a": 2 },
-{ "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS", "q": "As adaptações autorizadas do processo de avaliação devem ser:", "o": ["A) Coerentes e baseadas apenas sobre queixa informal", "B) Fundamentadas no processo individual (RTP/Processo de aprendizagem/ensino)", "C) Realizadas com o encarregado de educação via app móvel", "D) Universais de forma a abranger também turmas que não precisem"], "a": 1 },
-{ "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS", "q": "O processo de requerer aplicação de adaptações compreende cópia expressa e anuência:", "o": ["A) Do psicólogo independente e assistente social", "B) Assinado pelo encarregado de educação ou pelo aluno (quando maior)", "C) Pelo notário mais próximo", "D) Pela federação portuguesa de escolas"], "a": 1 },
-{ "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS", "q": "Nos pedidos de adaptações para a Direção do exame submetidos a aprovação do Presidente do JNE, existe a obrigatoriedade de envio:", "o": ["A) De gravação vídeo comprovando dislexia", "B) De Relatório médico (ou de técnico da especialidade) aplicável", "C) Pagamento da taxa médica em suplemento", "D) Fotografias biográficas"], "a": 1 },
-{ "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS", "q": "Um autoproposto que pretenda renovar a adaptação que teve ano passado (com despacho passado do mesmo órgão aprovador), é obrigado a novos papéis clínicos?", "o": ["A) Sim, de 6 em 6 meses", "B) Não, pode substituir os documentos enumerados no processo pelo despacho de autorização de adaptação", "C) Tem isenção sem precisar do despacho", "D) Sim, são processos distintos impreterivelmente"], "a": 1 },
-{ "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS", "q": "As adaptações de exames de 1.ª fase perdem validade caso se vá à 2.ª fase do mesmo ano escolar?", "o": ["A) Perdem", "B) Sendo exames novos, de facto as regras decaem e o aluno faz o exame normal", "C) As adaptações validadas pelo diretor/presidente do JNE são válidas também para a 2.ª fase", "D) Apenas se houver um ofício"], "a": 2 },
-{ "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS", "q": "Podemos identificar o aluno pelas medidas de adaptação em causa nas pautas e chamadas dos exames?", "o": ["A) Sim, por exigência da lei inclusiva da DGE", "B) Na chamada ele é evocado por número clínico", "C) Sim, para ser mais fácil localizá-los", "D) Não devem identificar o aluno como tendo adaptações no processo de avaliação externa nas pautas/chamadas"], "a": 3 },
-{ "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS", "q": "Pode um aluno em Ensino Secundário executar uma (Prova Nível Escola) que substitui Exame Nacional, se o seu fundamento no RTP for Dislexia, PEL ou PHDA?", "o": ["A) Sim, são exatamente essas doenças que dão a prova no nível escolar", "B) Sim, a menos que rejeite formalmente a dislexia", "C) Não, as provas a nível escola não se aplicam e os alunos nessas situações realizam os exames finais nacionais", "D) Apenas as de PHDA o proíbem"], "a": 2 },
-{ "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS", "q": "A aprovação de uma Prova de Nível de Escola do ensino secundário obedece a decisão autorizadora de:", "o": ["A) Presidente do JNE", "B) Direção-Geral de Estabelecimentos", "C) Secretário de Estado da Educação", "D) Encarregado da Disciplina"], "a": 0 },
-{ "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS", "q": "Ao optar por realizar Provas a Nível de Escola e concorrentes Exames Finais Nacionais (via ingresso no Superior), os alunos podem:", "o": ["A) Efectuar um mix temporal e repetir do mês", "B) Combiná-las indiscriminadamente para a mesma disciplina", "C) Realizá-las condicionalmente, não para aprovação", "D) Mas não podem no mesmo ano escolar realizar Provas a Nível de Escola e Exames Finais Nacionais na mesma disciplina"], "a": 3 },
-{ "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS", "q": "A quem cabe aprovar a estrutura, cotações e critérios na Prova de Nível Escolar do Secundário?", "o": ["A) Ao coordenador de português e de matemática", "B) Sob orientação e responsabilidade do Conselho Pedagógico", "C) Ao IAVE regional do agrupamento", "D) Presidente do JNE ditando por decreto interno"], "a": 1 },
-{ "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS", "q": "Na avaliação do PLNM para prova escolar, a componente de produção/interação oral é classificada no anonimato?", "o": ["A) O anonimato não está submetido nesse requisito", "B) É sujeita rigorosamente porque corre nas câmaras escuras", "C) Não é, e obedece a responsabilidade dos júris por observação da atividade designados do artigo específico", "D) É uma avaliação escrita sempre no PLNM de oralidade então cai em anonimato natural"], "a": 2 },
-{ "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS", "q": "O aluno do secundário afetado com surdez profunda severa:", "o": ["A) Deve ser dispensado de exames gerais na totalidade", "B) Fica refém do exame ModA apenas para registo civil", "C) Pode fazer o Nacional de Português Língua Segunda (138) que substitui o Nacional (639) (mesmo p/ acesso superior)", "D) Faz Inglês"], "a": 2 },
-{ "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS", "q": "Dispensa às suas partes orais perante a compreensão deficiente e problemas que inviabiliza produção em plena via regular perante avaliações em exames são aceites:", "o": ["A) Sim. Se ele reincide ou foi reportado o documento que aprova por atestado de técnico/médico sem prejudicar com falta para final e não perdendo valor das já feitas competências no exame base perante processo RTP de sua limitação funcional e documental.", "B) O processo obriga exames paralelos apenas práticos com um surdo mudo se no atestado em anexo JNE da prova", "C) Não pode porque se avalia a disciplina na plenitude nacional de exames", "D) Os Exames tem provas escritas sempre e em PLNM tem que ter obrigatoriamente a interação ou o ModA."], "a": 0 },
-{ "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS", "q": "Para obterem prova nas competências a requisições com tempo em extensão temporal e suplemento no Português-PLNM (30 minutos a mais para intermédios B1, iniciações) os mesmos sujeitos carecem:", "o": ["A) Que eles estejam matriculados no exterior aos países da CPLP", "B) Têm o uso de tolerância adicional com autorizados no uso dicionário com Língua/Port e também na base que as normais respostas não superaram para sua compreensão e adequação base e sem medidas previstas de exceção na área das provas ModA.", "C) Se pagarem e autoproporem à reavaliação fase um de secundário regular em tempo", "D) O tempo só é adicional via dispensa médica sem PHDA para casos da escola e alunos que falem idiomas não latinos em exclusivo do certificado anterior."], "a": 1 },
-{ "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS", "q": "A aprovação temporal do tempo extra dado, quem decide e dá provimento final nessa competência dos exames estaduais a título do Ens. Secundário face da sua jurisdição:", "o": ["A) A sua atribuição remete do parecer das comissões do secundário e dos despachos presidenciais nos professores das avaliaçãos das turmas nacionais para directores aprovarem os pareceres da comissões nos secundários no prazo a ditar nas avaliações formativas do aluno no exame via PT ensino e sua tutelar.", "B) Presidente DGEstE", "C) Da competência do residente do conselho de turma apenas.", "D) Conselho Pedagóg. dá parece e quem comete e compete autorizar p/ secundário recai sobre a pessoa e encargo do Presidente JNE nacional."], "a": 3 },
-{ "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS", "q": "No tempo suplementar na prova para PLNM que são alunos, o seu Dicionário para efeitos autorizados abarca:", "o": ["A) Versões só digitais e tradutor portátil nos exames.", "B) Dicionários de Português - L. Materna e nas equivalentes ao L. Materna do aluno para Pt com tempo de 30 mins a somar na sua suplementar adequadeza a exames de avaliaçãos normais e PLNM da escola local a título do secundário", "C) Os vocabulários que apenas sejam definidos com acordo pelo JNE IAVE nas traduções aprovadas no Conselho para avaliações na base escolar local do JNE Pt do sistema português formativas.", "D) Só PLNM sem recurso no pt"], "a": 1 },
-{ "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS", "q": "A classificação da parte de produção e de interações na prova (PLNM avalanches com provas do sec. escolar a título escola a sua autorização):", "o": ["A) Corre o trâmite normal se o conselho ditou na escola", "B) Realiza mediante os júris no termo definido que nomeará equipa específica conforme do n 3 artigo da escola das disciplinas locais com exames orais secundário", "C) É da base automática", "D) Anonimiza-se no papel"], "a": 1 },
-{ "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS", "q": "O presidente JNE face às reclamações de JNE nos Exames pauta pela submissão do aval da IGEC se exames base tiver de o fazer para apoio nas avaliações locais no prazo a título das reclamações das provas com tempo max.", "o": ["A) 40 dias.", "B) E recorrer a eles da Inspeção e professores pareceria da tutela se a análise requer", "C) Porque o Diretor se abstem", "D) O Director avaliza."], "a": 1 },
-{ "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS", "q": "Pode do JNE a quantia revertida se aluno for a reclamação sem a ter subida o que com ela a instituição fará após reapreciar no ensino base com depósito legal as suas reavaliações do escola:", "o": ["A) Institui que o Tesouro de exames recupere e receba para Estado das reclamações do ensino PT nos PT (1) na Direção Geral nos depositados a JNE sem subida", "B) Volta em prestações à JNE e do sistema", "C) Ela constitui receita para a escola se não tem o seu provimento com classificação em favor", "D) Volta aos Juntas"], "a": 2 },
-{ "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS", "q": "Nos termos das rectificações dos itens tipo seleção, escolha múltipla do PT a soma dos relatórios da avaliação para o Secundário de facto se houver um exames da base, e da escola de língua, do que compete ditar os consertos erro a título do ensino nacional PT?", "o": ["A) Ao Diretor se para escola (Ex: Exames e Línguas Escolares a Fim Nacionais).", "B) IGEC dita.", "C) Diretor da DGEstA dita às JNE locais na JNE e no diretor no ensino PT.", "D) Ao JNE nas provas Nacionais do Sistema de Exames Finais (se aplicável), e se equivalentes à escola de exames da DGEstA (Diretores)."], "a": 3 },
-{ "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS", "q": "Prazo para submissão pela direção sobre pedidos em JNE do que requeriu autorizações num limite temporal após recepção na escola a dias estipulados de falhas ou de impedimentos à realizações face art 86º:", "o": ["A) Num limite que vai de imediato e sem prazo à vista o aluno decide e JNE analisa", "B) Fica com a DGE, e se o exame não o exigir para os autoproposto por faltas.", "C) Tem imprterivelmente até dia util seguido no termo estipulado nos prazos com documentos anexos nas pastas para Direcção encaminhar ao Presidente de JNE exames por Faltas.", "D) Diretor JNE envia por correio nos termos dos 5.", "E) Na plataforma"], "a": 2 },
-{ "s": "SECÇÃO VI - SITUAÇÕES EXCECIONAIS", "q": "Faltou por que motivos lhe podem facultar à 2.ª fase a mesma avaliação do exame primário?", "o": ["A) Esquecimento total na viagem e erro na leitura da pauta de calendário", "B) Motivos graves, de saúde e os que não lhe sejam inteiramente imputáveis, dependente de análise", "C) Greve dos pais", "D) Sem razão aparente porque não há limitações gerais"], "a": 1 },
-{ "s": "SECÇÃO VI - SITUAÇÕES EXCECIONAIS", "q": "Falta num dos momentos (Ex: Escrito ou Oral) em exame de Língua Estrangeira, pode na Fase 2:", "o": ["A) Optar mediante autorização e justificação em avançar à componente faltosa mantendo a juriada ou ambas abdicando de tudo", "B) Não são nunca viáveis por despachos paralelos nestas lógicas orais/escritas de 1 disciplina", "C) Executar exames independentes onde não perde as notas na totalidade com os erros", "D) Obter média com o 2.º percurso para as valências em causa"], "a": 0 },
-{ "s": "SECÇÃO VI - SITUAÇÕES EXCECIONAIS", "q": "Até que prazo, o pedido e a justificação deverão ser postados no Diretor na sequência de ausência autorizável no exame?", "o": ["A) Três dias seguidos contando no dia do evento decorrido e que falto", "B) Quase três semanas por via de processos prolongados da fase dois a decorrer", "C) Dois dias úteis", "D) No prazo de 5 dias úteis a contar do dia seguinte ao da realização da prova a que faltou"], "a": 3 },
-{ "s": "SECÇÃO VI - SITUAÇÕES EXCECIONAIS", "q": "Que deve a justificação possuir para casos não clínicos mas enquadrados como motivo forte de forma documentada à direcção por falta referida na lei?", "o": ["A) Extratos bancários demonstrando falta pecuniária no transporte público", "B) Cópias com as assinaturas completas", "C) Documentos provando inequivocamente e emitidos por entidades na origem de impedimento a que teve sem sucesso.", "D) Provas anónimas deixadas pela APP ao diretor."], "a": 2 },
-{ "s": "SECÇÃO VI - SITUAÇÕES EXCECIONAIS", "q": "Na circunstância de motivo com teor sigiloso, qual conduta procede de forma cautelosa a escola quando aceita justificar o aluno perante uma ausência no exame?", "o": ["A) O director é ignorado porque ele publicita isso aos conselhos por força da burocracia.", "B) O processo deverá integrar e ser recepcionado por um envelope fechado destinado com os comprovativos.", "C) Reencaminham o processo oral para o Delegado Distrital e fecha-se via e-mail anónimo.", "D) Fica retido nas dependências jurídicas locais."], "a": 1 },
-{ "s": "SECÇÃO VI - SITUAÇÕES EXCECIONAIS", "q": "Alunos inscritos na 2.ª fase dos exames pelo motivo justificado nas alíneas descritas, podem usar esta avaliação no concurso de acesso aos superiores de que qual Fase(s)?", "o": ["A) Exlusivamente no ano da 1ª Fase, pois a equivalência serve isso estritamente.", "B) Somente e restrito ao uso no concurso para o superior durante o corrente (presente) ano letivo para candidatar-se na 2.ª fase do ensino superior.", "C) Pela forma universal em ambas (I e II) do presente calendário superior decorrente", "D) Somente anos futuros"], "a": 1 },
-{ "s": "SECÇÃO VI - SITUAÇÕES EXCECIONAIS", "q": "Quando e como os exames da 2.ª fase são equiparáveis à 1.ª fase no que importa à aplicabilidade de fases superiores?", "o": ["A) Doenças súbitas ou internamento decorrente atestado do aluno na véspera/dia da disciplina de avaliação final e outras causas legais (como falecimento consaguínio de 1 grau).", "B) Eles ficam equiparados sempre, de forma a não descriminar com excepção das notas de exame na pauta autoproposto", "C) Quando assim for designado administrativamente mas só aplicável a lógistica da faculdade superior e reitoria regional", "D) Pela submissão e pedido para o director de faculdade do curso."], "a": 0 },
-{ "s": "SECÇÃO VI - SITUAÇÕES EXCECIONAIS", "q": "Sobre o luto ou óbitos nas excepções no que equiparação das fases dita (Fase 1 com 2), familiares abrangidos no documento contemplam:", "o": ["A) Apenas aos conjuges restritos perante a viúvez ou filhos tutelados em ordem civil.", "B) Ninguém pela força desse preceito (nem existe).", "C) Parentes consaguíneos independentes de linha afim atestados no seu estado (Pais, Afilhados do padrinho)", "D) Familiar direto (Pais, irmãos, avós e eventuais tutores legais em óbito) com atestado emitido nas datas compreendidas."], "a": 3 },
-{ "s": "SECÇÃO VI - SITUAÇÕES EXCECIONAIS", "q": "Com dispensa documental a 2.ª fase, para Erasmus e formandos num plano formativo de duplo grau de competências forasteiros no estrangeiro quando a sua avaliação corre - a sua prova enquadra de qual modo se peditório executado no estrangeiro no certame nacional interno de exames?", "o": ["A) A sua prova não conta para estatística", "B) O aluno terá de refazer o semestre para estar compatível obrigatoriamente", "C) Os que realizam a 2.ª Fase têm prova passível a que a veja como \"Exame Realizado na 1.ª fase\"", "D) A 1ª fase aplica-se mas nula se inferior a 5"], "a": 2 },
-{ "s": "SECÇÃO VI - SITUAÇÕES EXCECIONAIS", "q": "Um estudante que coloque e recorra do seu recurso à avaliação formativa a final da escola para um exame. Se o conselho não reavaliou para ir a exame?", "o": ["A) O estudante vai ser aceite a título provisório na avaliação de conselho", "B) Como o resultado de recurso formativo pode viabilizar, a prova poderá ter presença/validação mas dependente a título condicional e expectatriz de desfecho.", "C) É lhe atribuído acesso ilimitado aos certificados.", "D) Reencaminha via conturbadas provas especiais dadas pela pauta em separado até o diretor sancionar administrativamente."], "a": 1 },
-{ "s": "SECÇÃO VI - SITUAÇÕES EXCECIONAIS", "q": "Um exame efetuado de teor nacional perante situação clínica e doente em unidade do seu internamento carece, nos seus trâmites do Ministério da Educação do documento referindo e enviado com remetente de e aprovação via diretor do aluno da escola de quem e respectiva instrucional nos documentos da direção local a JNE do:", "o": ["A) O hospital atestando impedimento no ambiente escolar normal + autorizando via documentação local realizar na unidade provas.", "B) Somente o Presidente JNE avalia clinicamente", "C) A escola recusa sistematicamente, pois o exame pressupõe comparência para ser válido em contexto JNE e escola e o ambiente local invalida", "D) Envio pelo seu parente acompanhante"], "a": 0 },
-{ "s": "SECÇÃO VI - SITUAÇÕES EXCECIONAIS", "q": "Como e onde requerer adaptação pela incapacidade não permanente (temporária) decorrente para no Exame em vigor e imediato após atestado?", "o": ["A) Pelos conselhos pedagógicos que interam perante a urgência via oficios aos seus directores nos encarregados das turmas pautando reuniões das provas exames locais regionais para com atestados das escolas em regime não letivos limitados.", "B) Requerimento online ou papel onde tem anuência escolar do pai via confirmação por atestado c/ incapacidade pelo presidente submetida a aprovação (JNE Presidente).", "C) É vetada a incapacidade momentânea se os atestados preveem regresso até final de Junho das fases.", "D) JNE atua pelo delegado de saúde unicamente após 4 meses na recuperação escolar decorrente pós incapacitação"], "a": 1 },
-{ "s": "SECÇÃO VI - SITUAÇÕES EXCECIONAIS", "q": "O Diretor nos Envelopes e da falta das Sigilosas justificada às de exame que atestará para de JNE presidente como nas justificações referidas ao Secundário do aluno das Escolas (e o ensino base formativas):", "o": ["A) Remete digital por scaneamento", "B) Assegurados e são entregados todos na direção do estabelecimento sigiloso por fechado do qual Director para as anota", "C) Ao médico JNE para do sistema examinar com director o teor", "D) Fica rasgado após e por exames sigiloso base sem anotaçõs nos e nas Direções"], "a": 1 },
-{ "s": "SECÇÃO VI - SITUAÇÕES EXCECIONAIS", "q": "Quem decide que existe de facto discrepância notória das cotações nas reprovações a título de análise na reavaliação com segundo relator de nacional de exames (JNE reapreciação):", "o": ["A) Diretor Geral com inspeções a relâmpago JNE e DGEstE", "B) A nota atribuida é superior à CIF final da disciplina", "C) Na verdade não há o critério para 2.º, o aluno dita", "D) Fica ao escrutínio com que perante as suas notórias discrepâncias recai no Presidente do JNE no acto o pedido de um segundo professor relator re-avaliar."], "a": 3 },
-{ "s": "SECÇÃO VI - SITUAÇÕES EXCECIONAIS", "q": "Identificação da Escola onde prova foi feita e requerimentos se o seu teor nas reclamações contem:", "o": ["A) Ocultações das escolas, porque na argumentação aos indeferidos na base escolar se contém na fundamentação a escola identificadas do JNE", "B) São nulas se referir onde o jovem andou e com indeferimento a reclamação liminar por conter escola.", "C) O requerimento exige expor onde ele frequenta p/ fundamentar reavaliações.", "D) Sítio fica à sua escolha do relator de escola para reapreciação"], "a": 1 },
-{ "s": "SECÇÃO VI - SITUAÇÕES EXCECIONAIS", "q": "As circunstância do 86 dita na falência ou morte dos seus entes referidos abrangendo os tutores à exames na base do sistema formativa em fase nacional para efeitos 2 fase (nº1):", "o": ["A) Sim, se tutelares estiverem definidos na base legal dos falecimentos.", "B) A 2 a fazer face, não se repara nos graus dos mortos face exames e sua tutelar civil do PT do ensino e sistema e tutores no documento em 1", "C) Não entram", "D) Sem certificado obito vale de falecidos não provados para os pais avós dos tutores"], "a": 0 }
+  {
+    "s": "SECÇÃO I - INSCRIÇÕES EM PROVAS E EXAMES DO ENSINO SECUNDÁRIO - Artigo 49.º - Alunos internos",
+    "q": "No ensino secundário, para ser considerado aluno interno para efeitos de admissão aos exames finais nacionais, o aluno deve ter obtido na CIF da disciplina:",
+    "o": [
+      "A) Classificação igual ou superior a 10 valores e classificação anual de frequência no ano terminal igual ou superior a 8 valores",
+      "B) Classificação igual ou superior a 9 valores e classificação anual de frequência no ano terminal igual ou superior a 7 valores",
+      "C) Classificação igual ou superior a 12 valores em ambas as componentes de avaliação",
+      "D) Classificação positiva em qualquer valor, sem condição de frequência"
+    ],
+    "a": 0
+  },
+  {
+    "s": "SECÇÃO I - INSCRIÇÕES EM PROVAS E EXAMES DO ENSINO SECUNDÁRIO - Artigo 49.º - Alunos internos",
+    "q": "Que cursos do ensino secundário são referidos no artigo 49.º para efeitos de admissão como alunos internos aos exames finais nacionais?",
+    "o": [
+      "A) Cursos profissionais e cursos artísticos especializados",
+      "B) Cursos científico-humanísticos (excluindo o ensino recorrente) e cursos com planos próprios da via científica",
+      "C) Cursos de educação e formação de adultos (EFA) e cursos vocacionais",
+      "D) Todos os cursos do ensino secundário, sem exceção"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO I - INSCRIÇÕES EM PROVAS E EXAMES DO ENSINO SECUNDÁRIO - Artigo 50.º - Alunos autopropostos",
+    "q": "Os alunos de PLNM no ensino secundário podem realizar o exame de PLNM (839) como autopropostos se:",
+    "o": [
+      "A) Estiverem matriculados em qualquer curso do ensino secundário",
+      "B) Tiverem frequentado a disciplina até ao final do ano letivo e não reunirem condições de admissão como internos, ou forem alunos de ensino individual/doméstico",
+      "C) Obtiverem autorização do presidente do JNE mediante relatório de nível linguístico",
+      "D) Apresentarem diagnóstico de PLNM emitido nos últimos dois anos letivos"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO I - INSCRIÇÕES EM PROVAS E EXAMES DO ENSINO SECUNDÁRIO - Artigo 50.º - Alunos autopropostos",
+    "q": "Onde se encontram identificadas as situações que conferem a qualidade de aluno autoproposto no ensino secundário?",
+    "o": [
+      "A) No Quadro I do regulamento",
+      "B) No Quadro II do regulamento",
+      "C) Na Informação-Prova do EduQA, I.P.",
+      "D) No Despacho anual do calendário de provas e exames"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO I - INSCRIÇÕES EM PROVAS E EXAMES DO ENSINO SECUNDÁRIO - Artigo 51.º - Inscrições",
+    "q": "Como é efetuada a inscrição para a realização dos exames e das provas do ensino secundário?",
+    "o": [
+      "A) Presencialmente na secretaria da escola de inscrição",
+      "B) Online, nos termos e prazos definidos no Quadro II",
+      "C) Pelo diretor de turma, em nome dos alunos internos",
+      "D) Automaticamente para todos os alunos internos"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO I - INSCRIÇÕES EM PROVAS E EXAMES DO ENSINO SECUNDÁRIO - Artigo 51.º - Inscrições",
+    "q": "A opção pelas disciplinas sujeitas a exame final nacional obrigatório para efeitos de CFD pode ser alterada, após o prazo de inscrição, até quando?",
+    "o": [
+      "A) Até ao último dia útil do 2.º período para os alunos do 11.º e 12.º anos",
+      "B) Até ao último dia útil do 3.º período para os alunos do 11.º e 12.º anos, mediante autorização do diretor",
+      "C) Até à véspera do início de cada fase, sem necessidade de autorização",
+      "D) Até 48 horas antes do início dos exames, com aprovação do JNE"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO I - INSCRIÇÕES EM PROVAS E EXAMES DO ENSINO SECUNDÁRIO - Artigo 52.º - Encargos de inscrição",
+    "q": "Os alunos internos fora da escolaridade obrigatória estão isentos de propina em que fase?",
+    "o": [
+      "A) Em ambas as fases, para qualquer fim",
+      "B) Apenas na 1.ª fase, para efeitos de aprovação de disciplina e ou prova de ingresso",
+      "C) Apenas na 2.ª fase, quando a inscrição for para melhoria",
+      "D) Não estão isentos em nenhuma fase"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO I - INSCRIÇÕES EM PROVAS E EXAMES DO ENSINO SECUNDÁRIO - Artigo 52.º - Encargos de inscrição",
+    "q": "Os alunos que se inscrevam depois de expirados os prazos do Quadro II estão sujeitos a um pagamento suplementar de:",
+    "o": [
+      "A) 10 euros, acrescidos da propina de inscrição correspondente",
+      "B) 50 euros, independentemente do número de disciplinas",
+      "C) 25 euros, qualquer que seja o número de disciplinas, acrescido da propina de inscrição correspondente",
+      "D) 3 euros por disciplina, sem acréscimo de qualquer outro valor"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS E EXAMES A NÍVEL DE ESCOLA - Artigo 53.º - Exames nacionais e exames a nível de escola",
+    "q": "Os exames a nível de escola de línguas estrangeiras são elegíveis como provas de ingresso no ensino superior?",
+    "o": [
+      "A) Sim, para todos os candidatos ao ensino superior",
+      "B) Não, não são elegíveis como provas de ingresso no ensino superior",
+      "C) Sim, mas apenas para cursos de línguas e humanidades",
+      "D) Sim, desde que autorizados pelo JNE em cada caso"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS E EXAMES A NÍVEL DE ESCOLA - Artigo 53.º - Exames nacionais e exames a nível de escola",
+    "q": "Quais as disciplinas bienais dos cursos científico-humanísticos cujos exames são elaborados a nível de escola?",
+    "o": [
+      "A) Português, Matemática e Filosofia",
+      "B) Alemão (continuação), Francês (iniciação) e Inglês (iniciação)",
+      "C) Espanhol, Francês e Italiano",
+      "D) Inglês (continuação), Espanhol e Mandarim"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS E EXAMES A NÍVEL DE ESCOLA - Artigo 54.º - Realização de exames",
+    "q": "Podem realizar exames finais nacionais na 2.ª fase, mediante inscrição, os alunos que:",
+    "o": [
+      "A) Tenham obtido aprovação na 1.ª fase e pretendam apenas confirmar a classificação",
+      "B) Não tenham obtido aprovação nas disciplinas em que realizaram exames na 1.ª fase, entre outras situações",
+      "C) Sejam alunos internos com CIF superior a 14 valores",
+      "D) Frequentem cursos profissionais e pretendam obter prova de ingresso pela primeira vez"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS E EXAMES A NÍVEL DE ESCOLA - Artigo 54.º - Realização de exames",
+    "q": "Em que suporte são realizados os exames do ensino secundário?",
+    "o": [
+      "A) Exclusivamente em suporte digital",
+      "B) Em suporte de papel específico, de acordo com a respetiva Informação-Prova",
+      "C) Em suporte misto, digital e papel, conforme a disciplina",
+      "D) À escolha do aluno, mediante autorização do diretor da escola"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS E EXAMES A NÍVEL DE ESCOLA - Artigo 55.º - Condições de admissão aos exames",
+    "q": "Os alunos dos cursos científico-humanísticos só podem realizar exames finais nacionais desde que:",
+    "o": [
+      "A) Tenham obtido aprovação em todas as outras disciplinas do curso",
+      "B) Estejam ou tenham estado matriculados no ano de escolaridade em que a disciplina é terminal",
+      "C) Tenham frequentado pelo menos 75% das aulas da disciplina",
+      "D) Apresentem CIF mínima de 10 valores na disciplina em causa"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS E EXAMES A NÍVEL DE ESCOLA - Artigo 55.º - Condições de admissão aos exames",
+    "q": "Os alunos de PLNM do 12.º ano posicionados nos níveis de iniciação (A1/A2) ou intermédio (B1) realizam que exame para aprovação e conclusão do ensino secundário?",
+    "o": [
+      "A) O exame final nacional de Português (639)",
+      "B) O exame final nacional de PLNM (839) de nível de proficiência linguística intermédio",
+      "C) A prova de equivalência à frequência de Português, elaborada a nível de escola",
+      "D) São dispensados de exame, sendo avaliados apenas pela componente interna"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS E EXAMES A NÍVEL DE ESCOLA - Artigo 56.º - Calendarização dos exames a nível de escola",
+    "q": "Os exames a nível de escola de línguas estrangeiras equivalentes a exames finais nacionais devem ser calendarizados, preferencialmente, para:",
+    "o": [
+      "A) Uma semana antes dos exames finais nacionais correspondentes",
+      "B) A mesma data e hora em que se realizam os exames finais nacionais de línguas estrangeiras",
+      "C) O último dia do calendário de provas e exames de cada fase",
+      "D) Data definida exclusivamente pelo Conselho Pedagógico, sem condicionantes"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS E EXAMES A NÍVEL DE ESCOLA - Artigo 56.º - Calendarização dos exames a nível de escola",
+    "q": "A quem compete calendarizar os exames a nível de escola de línguas estrangeiras equivalentes a exames finais nacionais?",
+    "o": [
+      "A) Ao presidente do JNE",
+      "B) Ao diretor da escola",
+      "C) Ao EduQA, I.P.",
+      "D) Ao coordenador de departamento da disciplina"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS E EXAMES A NÍVEL DE ESCOLA - Artigo 57.º - Elaboração e realização dos exames",
+    "q": "A elaboração dos exames finais nacionais é da competência de:",
+    "o": [
+      "A) Do JNE, em articulação com as escolas",
+      "B) Do EduQA, I.P.",
+      "C) Do Conselho Pedagógico de cada escola",
+      "D) Do Ministério da Educação, Ciência e Inovação"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS E EXAMES A NÍVEL DE ESCOLA - Artigo 57.º - Elaboração e realização dos exames",
+    "q": "O júri para a componente de produção e interação orais dos exames pode integrar professores dos alunos que se encontrem em avaliação?",
+    "o": [
+      "A) Sim, desde que autorizados pelo diretor da escola",
+      "B) Sim, mas apenas dois dos três elementos do júri",
+      "C) Não pode integrar professores dos alunos em avaliação na componente oral",
+      "D) Sim, sem qualquer restrição, desde que tenham habilitação para a disciplina"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS E EXAMES A NÍVEL DE ESCOLA - Artigo 58.º - Pautas de chamada dos exames",
+    "q": "Que informação deve constar das pautas de chamada dos exames finais nacionais?",
+    "o": [
+      "A) Apenas o nome do aluno e a disciplina",
+      "B) A identificação da prova (código e disciplina), o local, a data, a hora e a sala",
+      "C) O número de aluno, a escola de inscrição e a classificação interna",
+      "D) A identificação da prova, o local e a data, mas não a hora"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS E EXAMES A NÍVEL DE ESCOLA - Artigo 58.º - Pautas de chamada dos exames",
+    "q": "Com que antecedência devem ser afixadas as pautas de chamada dos exames relativamente ao primeiro dia do calendário de cada fase?",
+    "o": [
+      "A) 48 horas de antecedência",
+      "B) 72 horas de antecedência",
+      "C) 24 horas de antecedência",
+      "D) Uma semana de antecedência"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS E EXAMES A NÍVEL DE ESCOLA - Artigo 59.º - Classificação dos exames",
+    "q": "Em que escala são cotados os exames e as provas do ensino secundário, e como é expressa a Classificação de Exame?",
+    "o": [
+      "A) De 0 a 100 pontos, sendo a CE expressa em percentagem",
+      "B) De 0 a 200 pontos, sendo a CE expressa na escala de 0 a 20 valores, arredondada às unidades",
+      "C) De 0 a 100 pontos, sendo a CE expressa na escala de 0 a 20 valores",
+      "D) De 0 a 200 pontos, sendo a CE expressa na escala de 0 a 100 pontos percentuais"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS E EXAMES A NÍVEL DE ESCOLA - Artigo 59.º - Classificação dos exames",
+    "q": "Qual a ponderação atribuída à componente escrita e à componente oral no exame final nacional de PLNM (839) e nos exames de línguas estrangeiras?",
+    "o": [
+      "A) 150 pontos para a componente escrita e 50 para a oral",
+      "B) 180 pontos para a componente escrita e 20 para a oral",
+      "C) 160 pontos para a componente escrita e 40 para a componente oral",
+      "D) 170 pontos para a componente escrita e 30 para a oral"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS E EXAMES A NÍVEL DE ESCOLA - Artigo 60.º - Pautas e registo de classificações",
+    "q": "O que constitui o único meio oficial de comunicação dos resultados dos exames do ensino secundário?",
+    "o": [
+      "A) A publicação no portal do JNE",
+      "B) A notificação por email enviada pela escola",
+      "C) A afixação das pautas de classificação nas escolas, em suporte de papel",
+      "D) A publicação no Diário da República Eletrónico"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS E EXAMES A NÍVEL DE ESCOLA - Artigo 60.º - Pautas e registo de classificações",
+    "q": "As pautas dos exames do ensino secundário têm de contemplar:",
+    "o": [
+      "A) Apenas as componentes em que o aluno obteve aprovação",
+      "B) As componentes de prova realizadas, independentemente da não realização de uma das componentes",
+      "C) Apenas a classificação final da disciplina, sem referência às componentes",
+      "D) Todas as classificações obtidas durante o ano letivo, incluindo a avaliação interna"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS E EXAMES A NÍVEL DE ESCOLA - Artigo 61.º - Reapreciação de exames",
+    "q": "Têm legitimidade para requerer a reapreciação dos exames finais nacionais:",
+    "o": [
+      "A) Apenas o diretor da escola, em representação do aluno",
+      "B) O encarregado de educação ou o próprio aluno, quando maior de idade",
+      "C) O professor classificador, mediante despacho do presidente do JNE",
+      "D) O coordenador de departamento da escola do aluno"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS E EXAMES A NÍVEL DE ESCOLA - Artigo 61.º - Reapreciação de exames",
+    "q": "A reapreciação dos exames finais nacionais é da competência de:",
+    "o": [
+      "A) Do EduQA, I.P., em regime de anonimato",
+      "B) Do diretor da escola onde o exame foi realizado",
+      "C) Do JNE, sendo realizada em sede de agrupamento do JNE",
+      "D) Do Conselho Pedagógico da escola de inscrição do aluno"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS E EXAMES A NÍVEL DE ESCOLA - Artigo 62.º - Consulta dos exames para reapreciação",
+    "q": "Até quando deve ser entregue o requerimento de consulta do exame para efeitos de reapreciação?",
+    "o": [
+      "A) Até dois dias úteis após a publicação da classificação",
+      "B) Até ao final do dia útil seguinte ao da publicação da respetiva classificação",
+      "C) Até cinco dias úteis após a afixação das pautas",
+      "D) Até 48 horas após a realização do exame"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS E EXAMES A NÍVEL DE ESCOLA - Artigo 62.º - Consulta dos exames para reapreciação",
+    "q": "Cada requerimento de consulta de prova para reapreciação diz respeito a:",
+    "o": [
+      "A) Todas as provas realizadas na mesma fase pelo mesmo aluno",
+      "B) Uma prova apenas",
+      "C) Todas as componentes da mesma disciplina",
+      "D) Até três provas, desde que realizadas no mesmo dia"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS E EXAMES A NÍVEL DE ESCOLA - Artigo 63.º - Requerimento de reapreciação de exames",
+    "q": "Qual o valor do depósito exigido para requerer a reapreciação de exames?",
+    "o": [
+      "A) 10 euros",
+      "B) 20 euros",
+      "C) 50 euros",
+      "D) 25 euros"
+    ],
+    "a": 3
+  },
+  {
+    "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS E EXAMES A NÍVEL DE ESCOLA - Artigo 63.º - Requerimento de reapreciação de exames",
+    "q": "Que fundamentos são admitidos na alegação justificativa de um requerimento de reapreciação de exame?",
+    "o": [
+      "A) Qualquer fundamento, incluindo referências à situação pessoal e escolar do aluno",
+      "B) Apenas fundamentos de natureza científica, de juízo sobre os critérios de classificação ou existência de vício processual",
+      "C) Fundamentos médicos e socioeconómicos que justifiquem a situação do aluno",
+      "D) Referências à classificação necessária para conclusão do curso ou acesso ao ensino superior"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS E EXAMES A NÍVEL DE ESCOLA - Artigo 64.º - Decisão do requerimento de reapreciação dos exames",
+    "q": "A reapreciação do exame é efetuada por um professor relator que:",
+    "o": [
+      "A) Pode ter classificado a prova, desde que sejam passados mais de 30 dias",
+      "B) Não pode ter classificado a prova ou a resposta",
+      "C) É designado pelo EduQA, I.P., mediante proposta do JNE",
+      "D) Deve ser professor da escola do aluno, mas de grupo de recrutamento diferente"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS E EXAMES A NÍVEL DE ESCOLA - Artigo 64.º - Decisão do requerimento de reapreciação dos exames",
+    "q": "A classificação final da reapreciação pode implicar a reprovação do aluno que já foi aprovado com base na classificação inicial?",
+    "o": [
+      "A) Sim, sempre que o professor relator identifique erros graves na classificação",
+      "B) Sim, mas apenas se a diferença for superior a 3 valores",
+      "C) Não pode implicar a reprovação; nesses casos, a classificação será a mínima necessária para garantir a aprovação",
+      "D) Sim, sem qualquer restrição, sendo a classificação do relator sempre definitiva"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS E EXAMES A NÍVEL DE ESCOLA - Artigo 65.º - Processo de reclamação dos exames",
+    "q": "Qual o prazo para apresentar reclamação após a afixação dos resultados da reapreciação dos exames?",
+    "o": [
+      "A) No próprio dia da afixação dos resultados",
+      "B) Nos cinco dias úteis seguintes à afixação dos resultados",
+      "C) Nos dois dias úteis seguintes à afixação dos resultados da reapreciação",
+      "D) Num prazo de 10 dias úteis após a afixação dos resultados"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO II - EXAMES FINAIS NACIONAIS E EXAMES A NÍVEL DE ESCOLA - Artigo 65.º - Processo de reclamação dos exames",
+    "q": "A reclamação do aluno sobre os exames apenas pode incidir sobre:",
+    "o": [
+      "A) Todos os itens da prova, independentemente de terem sido ou não reapreciados",
+      "B) Os itens que foram objeto de reapreciação, quer aqueles em que o aluno apresentou alegações, quer os que mereceram alteração por parte do professor relator",
+      "C) Apenas os itens em que o aluno apresentou alegações no processo de reapreciação",
+      "D) Apenas os itens de construção, excluindo os de seleção múltipla"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO SECUNDÁRIO - Artigo 66.º - Provas de equivalência à frequência",
+    "q": "As provas de equivalência à frequência do ensino secundário são substituídas por exames finais nacionais quando:",
+    "o": [
+      "A) O aluno optar pelo exame nacional em vez da prova de equivalência",
+      "B) Exista oferta de exame final nacional para a disciplina em causa",
+      "C) O Conselho Pedagógico assim o delibere para as disciplinas com mais inscrições",
+      "D) O presidente do JNE autorize, mediante pedido do diretor da escola"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO SECUNDÁRIO - Artigo 66.º - Provas de equivalência à frequência",
+    "q": "Qual a duração prevista para as provas de equivalência à frequência de disciplinas dos cursos com planos próprios?",
+    "o": [
+      "A) Entre 45 e 90 minutos, a determinar pelo diretor da escola",
+      "B) Entre 90 e 180 minutos, a determinar pelo Conselho Pedagógico",
+      "C) Exatamente 120 minutos, sem possibilidade de variação",
+      "D) Entre 60 e 150 minutos, a determinar pelo JNE"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO SECUNDÁRIO - Artigo 67.º - Condições de admissão às provas de equivalência à frequência",
+    "q": "Aos alunos do 12.º ano dos cursos artísticos especializados é permitida a realização de provas de equivalência à frequência:",
+    "o": [
+      "A) Apenas nas disciplinas do seu plano de estudos no 12.º ano",
+      "B) Em qualquer disciplina, independentemente do ano e do plano de estudos a que pertença",
+      "C) Apenas nas disciplinas em que não existam exames finais nacionais",
+      "D) Exclusivamente nas disciplinas da componente de formação artística especializada"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO SECUNDÁRIO - Artigo 67.º - Condições de admissão às provas de equivalência à frequência",
+    "q": "Podem ser admitidos à 2.ª fase de provas de equivalência à frequência os alunos que, entre outras situações:",
+    "o": [
+      "A) Tenham obtido aprovação na 1.ª fase e pretendam confirmar a classificação",
+      "B) Não tenham obtido aprovação na 1.ª fase ou pretendam melhoria de classificação",
+      "C) Sejam alunos internos com CIF superior a 10 valores",
+      "D) Tenham realizado apenas a componente oral na 1.ª fase"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO SECUNDÁRIO - Artigo 68.º - Calendarização das provas de equivalência à frequência",
+    "q": "A calendarização das provas de equivalência à frequência do ensino secundário não pode coincidir, na 1.ª fase, com:",
+    "o": [
+      "A) Qualquer prova de qualquer disciplina do ensino básico",
+      "B) A mesma hora de um exame final nacional",
+      "C) As provas de equivalência à frequência do ensino básico",
+      "D) Qualquer prova de língua estrangeira a nível de escola"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO SECUNDÁRIO - Artigo 68.º - Calendarização das provas de equivalência à frequência",
+    "q": "Com que antecedência mínima deve ser afixado e divulgado o calendário das provas de equivalência à frequência?",
+    "o": [
+      "A) Até dois meses antes da data fixada para o início do período de realização",
+      "B) Até uma semana antes da data fixada",
+      "C) Até um mês antes da data fixada para o início do período de realização",
+      "D) Até 15 dias antes da data fixada para o início do período de realização"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO SECUNDÁRIO - Artigo 69.º - Elaboração e realização das provas de equivalência à frequência",
+    "q": "As provas de equivalência à frequência dos cursos científico-humanísticos do ensino secundário são elaboradas:",
+    "o": [
+      "A) Pelo EduQA, I.P., a nível nacional",
+      "B) Na escola, sob orientação e responsabilidade do Conselho Pedagógico, tendo por referência a Informação-Prova dos exames finais nacionais",
+      "C) Pelo JNE, em sede de agrupamento, com base nos critérios definidos anualmente",
+      "D) Pelo Ministério da Educação, em parceria com as escolas selecionadas"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO SECUNDÁRIO - Artigo 69.º - Elaboração e realização das provas de equivalência à frequência",
+    "q": "Quantos exemplares de provas de equivalência à frequência devem as escolas garantir por cada disciplina?",
+    "o": [
+      "A) Um exemplar por disciplina",
+      "B) Três exemplares por disciplina",
+      "C) Dois exemplares por disciplina",
+      "D) O número é definido anualmente pelo JNE"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO SECUNDÁRIO - Artigo 70.º - Pautas de chamada das provas de equivalência à frequência",
+    "q": "Que informação deve constar das pautas de chamada das provas de equivalência à frequência do ensino secundário?",
+    "o": [
+      "A) Apenas o nome do aluno e o código de prova",
+      "B) A identificação da prova (código e disciplina), o local, a data, a hora e a sala",
+      "C) A classificação interna do aluno e o número de faltas",
+      "D) O nome do professor classificador e os critérios de avaliação da prova"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO SECUNDÁRIO - Artigo 70.º - Pautas de chamada das provas de equivalência à frequência",
+    "q": "As pautas de chamada das provas de equivalência à frequência afixadas em suporte de papel constituem:",
+    "o": [
+      "A) Um meio complementar ao portal do JNE",
+      "B) Um meio informativo, sendo o e-mail o meio oficial",
+      "C) O único meio oficial de comunicação das informações referidas no artigo",
+      "D) Um meio provisório, substituído pela publicação digital após 24 horas"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO SECUNDÁRIO - Artigo 71.º - Classificação das provas de equivalência à frequência",
+    "q": "Nas provas de equivalência à frequência do ensino secundário com componente escrita e oral, qual é a ponderação de cada componente?",
+    "o": [
+      "A) A componente escrita tem 80% e a oral 20%",
+      "B) A componente escrita tem 50% e a oral 50%",
+      "C) A componente escrita tem 70% e a oral 30%",
+      "D) A componente escrita tem 60% e a oral 40%"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO SECUNDÁRIO - Artigo 71.º - Classificação das provas de equivalência à frequência",
+    "q": "Na disciplina de Educação Física, qual é a ponderação da componente escrita e da componente prática nas provas de equivalência à frequência?",
+    "o": [
+      "A) 70% escrita e 30% prática",
+      "B) 50% escrita e 50% prática",
+      "C) 30% escrita e 70% prática",
+      "D) 20% escrita e 80% prática"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO SECUNDÁRIO - Artigo 72.º - Pautas e registo de classificações",
+    "q": "Quando são afixadas as pautas de classificação das provas de equivalência à frequência do ensino secundário?",
+    "o": [
+      "A) No próprio dia da realização das provas",
+      "B) Nas datas estabelecidas no Despacho Normativo que determina o calendário de provas e exames",
+      "C) Num prazo máximo de 5 dias úteis após a realização das provas",
+      "D) Após homologação pelo presidente do JNE, sem prazo fixado"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO SECUNDÁRIO - Artigo 72.º - Pautas e registo de classificações",
+    "q": "Pode a escola proceder à retificação de erros materiais nas pautas das provas de equivalência à frequência do ensino secundário?",
+    "o": [
+      "A) Apenas mediante autorização do JNE",
+      "B) Sim, a qualquer momento",
+      "C) Apenas nos 5 dias úteis após afixação das pautas",
+      "D) Não, qualquer retificação implica nova deliberação do Conselho Pedagógico"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO SECUNDÁRIO - Artigo 73.º - Reapreciação das provas de equivalência à frequência",
+    "q": "É admitida a reapreciação de que componente das provas de equivalência à frequência do ensino secundário?",
+    "o": [
+      "A) Da componente oral, desde que haja registo áudio da prestação do aluno",
+      "B) Da componente prática, mediante análise presencial no JNE",
+      "C) Da componente escrita, de cuja resolução haja registo escrito em suporte de papel, digital ou produção de trabalho bidimensional ou tridimensional",
+      "D) De qualquer componente, sem restrições"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO SECUNDÁRIO - Artigo 73.º - Reapreciação das provas de equivalência à frequência",
+    "q": "A reapreciação das provas de equivalência à frequência do ensino secundário é realizada em sede de:",
+    "o": [
+      "A) Da escola onde as provas foram realizadas",
+      "B) Agrupamento do JNE",
+      "C) Do EduQA, I.P.",
+      "D) Do Ministério da Educação, Ciência e Inovação"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO SECUNDÁRIO - Artigo 74.º - Consulta para reapreciação",
+    "q": "Como deve a escola fornecer as cópias da prova para consulta?",
+    "o": [
+      "A) Apenas em suporte de papel, mediante pagamento das fotocópias",
+      "B) Preferencialmente em suporte digital (formato pdf) ou em suporte de papel, mediante pagamento das fotocópias",
+      "C) Exclusivamente em formato digital, sem qualquer custo",
+      "D) Apenas em formato digital, após autorização do JNE"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO SECUNDÁRIO - Artigo 74.º - Consulta para reapreciação",
+    "q": "A consulta do original da prova de equivalência à frequência, quando solicitada pelo requerente, só pode ser efetuada na presença de:",
+    "o": [
+      "A) Do professor classificador da prova e de um elemento do Conselho Pedagógico",
+      "B) Do diretor de escola, subdiretor, adjunto do diretor ou coordenador do secretariado de exames",
+      "C) De um representante do JNE designado para o efeito",
+      "D) Do encarregado de educação e do diretor de turma"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO SECUNDÁRIO - Artigo 75.º - Requerimento de reapreciação",
+    "q": "O requerimento de reapreciação das provas de equivalência à frequência do ensino secundário é entregue nos serviços de administração escolar nos:",
+    "o": [
+      "A) Cinco dias úteis seguintes ao prazo de consulta da prova",
+      "B) Dois dias úteis seguintes ao prazo de fornecimento das cópias da prova",
+      "C) Três dias úteis após a afixação das pautas de classificação",
+      "D) Dez dias úteis após a realização da prova"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO SECUNDÁRIO - Artigo 75.º - Requerimento de reapreciação",
+    "q": "Se o requerimento de reapreciação incidir exclusivamente sobre erro na soma das cotações ou nos itens de seleção, a retificação é da competência de:",
+    "o": [
+      "A) Do presidente do JNE",
+      "B) Do EduQA, I.P.",
+      "C) Do diretor da escola",
+      "D) Do Conselho Pedagógico da escola"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO SECUNDÁRIO - Artigo 76.º - Decisão do requerimento de reapreciação",
+    "q": "Em caso de discrepância notória entre a proposta do professor relator e a classificação inicial, o presidente do JNE:",
+    "o": [
+      "A) Aceita automaticamente a proposta do professor relator como classificação final",
+      "B) Manda reapreciar a prova a um segundo professor relator ou recorre a outros procedimentos adequados",
+      "C) Remete o processo para o EduQA, I.P., para deliberação final",
+      "D) Solicita parecer ao Ministério da Educação, Ciência e Inovação"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO SECUNDÁRIO - Artigo 76.º - Decisão do requerimento de reapreciação",
+    "q": "Os resultados das reapreciações das provas de equivalência à frequência do ensino secundário são comunicados aos requerentes através de:",
+    "o": [
+      "A) Email enviado pelo JNE ao encarregado de educação",
+      "B) A afixação nas escolas, nas datas estabelecidas no calendário de provas e exames",
+      "C) Notificação no portal do JNE, com acesso mediante código pessoal",
+      "D) Carta registada enviada pelo JNE para a morada do aluno"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO SECUNDÁRIO - Artigo 77.º - Processo de reclamação",
+    "q": "A reclamação das provas de equivalência à frequência do ensino secundário deve refutar os argumentos do professor relator, sendo apenas fundamento admissível:",
+    "o": [
+      "A) Qualquer fundamento que o aluno considere pertinente, incluindo a sua situação pessoal",
+      "B) A discordância na aplicação dos critérios de classificação das provas e a existência de vício processual",
+      "C) A referência ao número de disciplinas em falta para completar a escolaridade",
+      "D) A comparação com classificações obtidas noutras disciplinas pelo mesmo aluno"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO III - PROVAS DE EQUIVALÊNCIA À FREQUÊNCIA DO ENSINO SECUNDÁRIO - Artigo 77.º - Processo de reclamação",
+    "q": "Qual o prazo máximo para o presidente do JNE decidir sobre uma reclamação das provas de equivalência à frequência do ensino secundário?",
+    "o": [
+      "A) 15 dias úteis",
+      "B) 45 dias úteis",
+      "C) 20 dias úteis",
+      "D) 30 dias úteis"
+    ],
+    "a": 3
+  },
+  {
+    "s": "SECÇÃO IV - MELHORIAS - Artigo 78.º - Melhoria de classificação de disciplinas",
+    "q": "Os alunos que pretendam melhorar a classificação de disciplinas terminais do 11.º ou 12.º ano podem realizar exames finais nacionais:",
+    "o": [
+      "A) Apenas na 1.ª fase do ano letivo seguinte",
+      "B) Na 2.ª fase do ano letivo em que concluíram a disciplina ou em ambas as fases do ano escolar seguinte",
+      "C) Exclusivamente na 1.ª fase do mesmo ano letivo em que concluíram a disciplina",
+      "D) Em qualquer fase, durante os três anos letivos seguintes"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO IV - MELHORIAS - Artigo 78.º - Melhoria de classificação de disciplinas",
+    "q": "Não é permitida a realização de provas e exames para melhoria de classificação em disciplinas cuja aprovação foi obtida:",
+    "o": [
+      "A) Há mais de dois anos letivos",
+      "B) Em sistemas educativos estrangeiros",
+      "C) Com classificação inferior a 12 valores",
+      "D) Na modalidade de ensino recorrente"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS - Artigo 79.º - Autorização para aplicação de adaptações",
+    "q": "A autorização para a aplicação de adaptações na realização de provas e exames do ensino secundário é da responsabilidade de:",
+    "o": [
+      "A) Exclusivamente do diretor da escola",
+      "B) Do EduQA, I.P., em colaboração com o JNE",
+      "C) Do diretor da escola ou do presidente do JNE, consoante o caso",
+      "D) Do Conselho Pedagógico da escola, mediante proposta do diretor de turma"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS - Artigo 79.º - Autorização para aplicação de adaptações",
+    "q": "A autorização para adaptações no ensino secundário é da responsabilidade do diretor da escola ou do presidente do JNE nos termos de que artigo do Decreto-Lei n.º 54/2018?",
+    "o": [
+      "A) Artigo 14.º, n.ºs 1 e 2",
+      "B) Artigo 28.º, n.ºs 5 e 6",
+      "C) Artigo 22.º, n.ºs 3 e 4",
+      "D) Artigo 35.º, n.ºs 1 e 3"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS - Artigo 80.º - Adaptações na realização de exames e provas",
+    "q": "Os alunos com a medida adicional «adaptações curriculares significativas» realizam exames finais nacionais do ensino secundário?",
+    "o": [
+      "A) Sim, com adaptações específicas autorizadas pelo presidente do JNE",
+      "B) Sim, mas apenas as provas a nível de escola",
+      "C) Não, não realizam exames finais nacionais para efeitos de aprovação e conclusão de ciclo",
+      "D) Sim, mediante parecer favorável do Conselho Pedagógico e do JNE"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS - Artigo 80.º - Adaptações na realização de exames e provas",
+    "q": "As adaptações autorizadas pelo diretor da escola para a 1.ª fase dos exames e provas do ensino secundário são válidas para a 2.ª fase?",
+    "o": [
+      "A) Não, devendo ser renovadas para cada fase",
+      "B) Sim, são válidas para a 2.ª fase",
+      "C) Apenas se forem autorizadas novamente pelo presidente do JNE",
+      "D) Dependem da decisão do Conselho Pedagógico em cada fase"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS - Artigo 81.º - Provas a nível de escola do ensino secundário",
+    "q": "A realização de provas a nível de escola no ensino secundário depende da autorização de:",
+    "o": [
+      "A) Do diretor da escola",
+      "B) Do EduQA, I.P.",
+      "C) Do Conselho Pedagógico, mediante parecer da EMAEI",
+      "D) Do presidente do JNE"
+    ],
+    "a": 3
+  },
+  {
+    "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS - Artigo 81.º - Provas a nível de escola do ensino secundário",
+    "q": "Os alunos que realizam provas a nível de escola para aprovação e conclusão do ensino secundário podem optar por realizar exames finais nacionais nas disciplinas em que exista essa oferta?",
+    "o": [
+      "A) Não, são obrigados a realizar exclusivamente provas a nível de escola",
+      "B) Sim, podem optar por realizar exames finais nacionais nas disciplinas em que exista essa oferta",
+      "C) Sim, mas apenas nas disciplinas que elejam como provas de ingresso",
+      "D) Apenas se autorizados pelo presidente do JNE, caso a caso"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS - Artigo 82.º - Português Língua Segunda (PL2)",
+    "q": "Os alunos do ensino secundário em situação de surdez severa a profunda podem realizar que exame em substituição do exame de Português (639)?",
+    "o": [
+      "A) O exame de PLNM (839)",
+      "B) A prova de equivalência à frequência de Português, elaborada a nível de escola",
+      "C) O exame final nacional de Português Língua Segunda (138)",
+      "D) São dispensados do exame de Português, sendo avaliados pela componente interna"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS - Artigo 82.º - Português Língua Segunda (PL2)",
+    "q": "O exame final nacional de Português Língua Segunda (138) pode ser utilizado para que efeitos?",
+    "o": [
+      "A) Apenas para conclusão do ensino secundário",
+      "B) Para conclusão do ensino secundário e como prova de ingresso para candidatura ao ensino superior",
+      "C) Apenas como prova de ingresso para o ensino superior",
+      "D) Para melhoria de classificação na disciplina de Português"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS - Artigo 83.º - Acompanhamento por um docente",
+    "q": "As adaptações de acompanhamento por um docente (como «leitura de enunciados» ou «ditar as respostas») devem ser fundamentadas em:",
+    "o": [
+      "A) No diagnóstico médico do aluno, emitido no corrente ano letivo",
+      "B) No RTP (Relatório Técnico-Pedagógico), sem prejuízo de situações excecionais",
+      "C) Na ata do Conselho Pedagógico aprovada no início do ano letivo",
+      "D) Em declaração do encarregado de educação, validada pelo diretor da escola"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS - Artigo 83.º - Acompanhamento por um docente",
+    "q": "Em situações excecionais, o acompanhamento por um docente pode ser autorizado sem RTP, desde que fundamentado em:",
+    "o": [
+      "A) Declaração do encarregado de educação e relatório do médico de família",
+      "B) Ata do conselho de turma e documento elaborado pela EMAEI ou relatório médico ou técnico da especialidade",
+      "C) Parecer favorável do Conselho Pedagógico e autorização do JNE",
+      "D) Requerimento do encarregado de educação aprovado pelo diretor da escola"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS - Artigo 84.º - Situações de dislexia e PEL",
+    "q": "O presidente do JNE pode, excecionalmente, autorizar a aplicação da ficha A nos casos de dislexia e PEL no ensino secundário não abrangidos pela alínea b) do n.º 2, mediante requerimento elaborado por:",
+    "o": [
+      "A) Pelo encarregado de educação, com apoio do médico assistente",
+      "B) Pela EMAEI",
+      "C) Pelo diretor de turma, com parecer do Conselho Pedagógico",
+      "D) Pelo EduQA, I.P., após análise do processo do aluno"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS - Artigo 84.º - Situações de dislexia e PEL",
+    "q": "A adaptação «leitura de enunciados» em situações de dislexia e PEL deve estar fundamentada e expressa em:",
+    "o": [
+      "A) Ata do conselho de turma e relatório médico",
+      "B) RTP (Relatório Técnico-Pedagógico)",
+      "C) Declaração do encarregado de educação e parecer do Conselho Pedagógico",
+      "D) Relatório clínico e autorização do JNE"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS - Artigo 85.º - Utilização de tempo suplementar",
+    "q": "A adaptação «tempo suplementar» nas situações de dislexia e PEL graves no ensino secundário pode ser autorizada por quem?",
+    "o": [
+      "A) Pelo diretor da escola, mediante parecer do Conselho Pedagógico",
+      "B) Pelo EduQA, I.P., com base na análise do processo do aluno",
+      "C) Pelo presidente do JNE, fundamentada pela EMAEI",
+      "D) Pelo coordenador de departamento, com aprovação do JNE"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO V - ADAPTAÇÕES NA REALIZAÇÃO DE EXAMES E PROVAS - Artigo 85.º - Utilização de tempo suplementar",
+    "q": "Os alunos de PLNM dos níveis de iniciação ou intermédio (B1) que usufruam de tempo suplementar de 30 minutos têm direito a que recurso adicional?",
+    "o": [
+      "A) Ao uso de dicionários unilingues em Português",
+      "B) Ao uso de dicionário de Português-Língua Materna do aluno e de Língua Materna do aluno-Português",
+      "C) Ao acompanhamento por um docente durante a prova",
+      "D) À leitura dos enunciados por um professor assistente"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO VI - SITUAÇÕES EXCECIONAIS - Artigo 86.º - Condições excecionais de realização de exames e provas",
+    "q": "Os alunos que faltam à 1.ª fase dos exames finais nacionais por motivos graves podem realizar as provas na 2.ª fase desde que autorizados por:",
+    "o": [
+      "A) Pelo diretor da escola, após análise caso a caso",
+      "B) Pelo EduQA, I.P., com base no relatório da escola",
+      "C) Pelo presidente do JNE, após análise caso a caso",
+      "D) Pelo Conselho Pedagógico, mediante deliberação fundamentada"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO VI - SITUAÇÕES EXCECIONAIS - Artigo 86.º - Condições excecionais de realização de exames e provas",
+    "q": "Os exames realizados na 2.ª fase por motivo de falta justificada à 1.ª fase, só podem ser utilizados no concurso nacional de acesso ao ensino superior em que fase do concurso?",
+    "o": [
+      "A) Em qualquer fase do concurso nacional de acesso ao ensino superior",
+      "B) Apenas na 2.ª fase do concurso nacional de acesso ao ensino superior",
+      "C) Apenas na 1.ª fase do concurso nacional de acesso ao ensino superior",
+      "D) Não podem ser utilizados no concurso nacional de acesso ao ensino superior"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO VI - SITUAÇÕES EXCECIONAIS - Artigo 87.º - Realização de exames e provas em contexto hospitalar",
+    "q": "Qual o documento que a instituição hospitalar deve fornecer para viabilizar a realização de exames em contexto hospitalar?",
+    "o": [
+      "A) Relatório médico do médico assistente do aluno",
+      "B) Declaração da direção da instituição hospitalar a autorizar a realização das provas",
+      "C) Certidão de internamento emitida pelo serviço de saúde",
+      "D) Autorização conjunta do médico assistente e do diretor clínico do hospital"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO VI - SITUAÇÕES EXCECIONAIS - Artigo 87.º - Realização de exames e provas em contexto hospitalar",
+    "q": "A solicitação para a realização de exames em contexto hospitalar é remetida ao presidente do JNE por:",
+    "o": [
+      "A) Pelo próprio aluno ou encarregado de educação, diretamente",
+      "B) Pelo médico assistente do aluno, com validação do diretor clínico",
+      "C) Pelo diretor da escola",
+      "D) Pela EMAEI, em articulação com os serviços de saúde"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO VI - SITUAÇÕES EXCECIONAIS - Artigo 88.º - Dispensa de realização de componentes de provas e exames",
+    "q": "Os alunos que não tenham pleno acesso à componente «Produção e interação orais» podem ser dispensados da sua realização, desde que fundamentado em:",
+    "o": [
+      "A) Em requerimento do encarregado de educação, aceite pelo diretor da escola",
+      "B) No processo individual do aluno, no RTP quando aplicável, e em relatório médico ou de técnico da especialidade",
+      "C) Em autorização do JNE, mediante proposta do Conselho Pedagógico",
+      "D) Em ata do conselho de turma e declaração médica do ano letivo em curso"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO VI - SITUAÇÕES EXCECIONAIS - Artigo 88.º - Dispensa de realização de componentes de provas e exames",
+    "q": "Quando um aluno é dispensado de uma componente (oral ou escrita) dos exames, como é calculada a classificação final da prova?",
+    "o": [
+      "A) Com base na média das classificações das restantes componentes e da avaliação interna",
+      "B) Como se tivesse obtido 0 na componente dispensada",
+      "C) É obtida na(s) componente(s) realizada(s)",
+      "D) Com base apenas na classificação interna, sem ponderação do exame"
+    ],
+    "a": 2
+  },
+  {
+    "s": "SECÇÃO VI - SITUAÇÕES EXCECIONAIS - Artigo 89.º - Alunos com incapacidades físicas temporárias",
+    "q": "Os alunos com incapacidades físicas temporárias no período de realização de exames podem requerer adaptações, apresentando para o efeito:",
+    "o": [
+      "A) Apenas declaração do encarregado de educação confirmada pelo diretor da escola",
+      "B) Requerimento para adaptações assinado pelo encarregado de educação ou pelo aluno e confirmado pelo diretor da escola, e declaração médica com indicação da incapacidade e previsão de duração",
+      "C) Relatório técnico-pedagógico e ata do conselho de turma",
+      "D) Relatório médico e autorização do Conselho Pedagógico"
+    ],
+    "a": 1
+  },
+  {
+    "s": "SECÇÃO VI - SITUAÇÕES EXCECIONAIS - Artigo 89.º - Alunos com incapacidades físicas temporárias",
+    "q": "A autorização das adaptações para alunos do ensino secundário com incapacidades físicas temporárias é da competência de:",
+    "o": [
+      "A) Do diretor da escola",
+      "B) Do Conselho Pedagógico, mediante parecer da EMAEI",
+      "C) Do presidente do JNE, consoante a adaptação requerida",
+      "D) Do EduQA, I.P., em articulação com os serviços de saúde"
+    ],
+    "a": 2
+  }
 ]
